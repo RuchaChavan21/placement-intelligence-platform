@@ -1,23 +1,24 @@
 from fastapi import FastAPI
-from fastapi.responses import Response
-from app.analytics import router as analytics_router
+from dotenv import load_dotenv
+from app.db import SessionLocal
+from app.rag.data_loader import load_placement_documents
+from app.rag.vector_store import build_vector_store
+from app.rag import cache
+from app.chat_api import router as chat_router
 
-app = FastAPI(title="Campus Placement Analytics")
+load_dotenv()
 
-app.include_router(analytics_router, prefix="/api/analytics")
+app = FastAPI(title="Campus Placement Intelligence Platform")
 
+app.include_router(chat_router)
 
-@app.get("/favicon.ico", include_in_schema=False)
-def favicon() -> Response:
-    svg = (
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'>"
-        "<rect width='16' height='16' fill='#1f2937'/>"
-        "<text x='8' y='11' font-size='10' text-anchor='middle' fill='white'>P</text>"
-        "</svg>"
-    )
-    return Response(content=svg, media_type="image/svg+xml")
-
-
-@app.get("/")
-def health():
-    return {"status": "Placement Analytics API running"}
+@app.on_event("startup")
+def startup_event():
+    global vectorstore
+    db = SessionLocal()
+    try:
+        docs = load_placement_documents(db)
+        vectorstore = build_vector_store(docs)
+        print(f"Vector store initialized with {len(docs)} documents")
+    finally:
+        db.close()
