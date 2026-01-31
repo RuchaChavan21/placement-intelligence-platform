@@ -1,15 +1,14 @@
-from sqlalchemy import Column, Integer, String, DECIMAL, TIMESTAMP
+from sqlalchemy import Column, Integer, String, DECIMAL, TIMESTAMP, Float
 from sqlalchemy.sql import func
 from app.db import Base
 
 class Placement(Base):
     __tablename__ = "placements"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, index=True)
     sno = Column(Integer)
-    student_name = Column(String(100))
-    branch = Column(String(50))
-    company = Column(String(100))
-    package_lpa = Column(DECIMAL(5,2))
-    academic_year = Column(String(10))
-    created_at = Column(TIMESTAMP, server_default=func.now())
+    student_name = Column(String(255))
+    branch = Column(String(100))
+    company = Column(String(255))
+    package_lpa = Column(Float)
+    academic_year = Column(Integer)
