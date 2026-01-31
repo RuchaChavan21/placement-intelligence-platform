@@ -15,8 +15,6 @@ def get_db():
 
 
 # used GROUP BY with aggregation to compute company-wise placement counts
-
-
 @router.get("/company-wise")
 def company_wise_placements(db: Session = Depends(get_db)):
     result = (
@@ -56,7 +54,6 @@ def branch_avg_package(db: Session = Depends(get_db)):
     ]
 
 # summary analytics using SQL aggregation functions like COUNT, MAX, and AVG
-
 @router.get("/summary")
 def placement_summary(db: Session = Depends(get_db)):
     total_offers = db.query(func.count(Placement.id)).scalar() or 0
@@ -90,7 +87,6 @@ def company_wise_by_year(year: str, db: Session = Depends(get_db)):
 
 
 # Data for company-wise placement chart
-
 @router.get("/charts/company-wise")
 def company_wise_chart(
     year: str | None = Query(None),
@@ -119,7 +115,6 @@ def company_wise_chart(
 
 
 # Data for branch-wise average package chart
-
 @router.get("/charts/branch-average-package")
 def branch_avg_package_chart(
     year: str | None = Query(None),
@@ -143,7 +138,6 @@ def branch_avg_package_chart(
     }
 
 # Data for top N companies chart
-
 @router.get("/charts/top-companies")
 def top_companies_chart(
     n: int = Query(5, ge=1, le=20),
