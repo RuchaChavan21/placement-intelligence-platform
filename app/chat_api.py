@@ -1,34 +1,14 @@
-from fastapi import APIRouter, Depends
-from sqlalchemy.orm import Session
-
-from app.db import SessionLocal
-from app.rag.data_loader import load_placement_documents
-from app.rag.vector_store import build_vector_store
-from app.rag.chatbot import create_chatbot
-from app.rag.cache import vectorstore
+from fastapi import APIRouter, Query
+from app.rag import cache
 
 router = APIRouter(prefix="/api/chatbot", tags=["Chatbot"])
 
-
-
-router = APIRouter()
-
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
-
-
 @router.post("/chat")
-def chat(query: str):
-    if vectorstore is None:
+def chat(query: str = Query(...)):
+    if cache.chatbot is None:
         return {"error": "Vector store not initialized"}
 
-    chatbot = create_chatbot(vectorstore)
-    answer = chatbot.invoke({"question": query})
+    answer = cache.chatbot.invoke(query)
 
     return {
         "question": query,

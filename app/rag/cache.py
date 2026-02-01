@@ -1,1 +1,2 @@
 vectorstore = None
+chatbot = None
