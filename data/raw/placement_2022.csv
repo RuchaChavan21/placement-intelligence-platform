@@ -1,0 +1,561 @@
+S.No,NAME OF STUDENT,BRANCH,RECRUITERS,IN LAKH
+1,Kaustubh kishan patil,Computer,Eq technologic,10
+2,Prachi sakhahari patil,Computer,Zs associates pvt. Ltd.,9.5
+3,Shubham kishor sapkal,Computer,Zs associates pvt. Ltd.,9.5
+4,Sushant madhukar patil,Computer,Zs associates pvt. Ltd.,9.5
+5,Tejas pravin kshirsagar,Computer,Zs associates pvt. Ltd.,9.5
+6,Aakash jalundar chakor,Computer,Quantiphi analytics,8.5
+7,Mayur dattatray tadge,Computer,Quantiphi analytics,8.5
+8,Simran koul,Computer,Accolite digital,8
+9,Umesh chudaman patil,Computer,Accolite digital,8
+10,Aarya brijeshkumar dwivedi,Computer,Deloitte consulting,7.6
+11,Atharv sandeep temkar,Computer,Deloitte consulting,7.6
+12,Charudatta premanand tandale,Computer,Deloitte consulting,7.6
+13,Mansi arunkumar jaju,Computer,Deloitte consulting,7.6
+14,Prabhat suryaprakash mahavadi,Computer,Deloitte consulting,7.6
+15,Rahul ajay tah,Computer,Deloitte consulting,7.6
+16,Rushikesh bharat sonar,Computer,Deloitte consulting,7.6
+17,Sachin dwarkadas more,Computer,Deloitte consulting,7.6
+18,Sanskar sharma,Computer,Deloitte consulting,7.6
+19,Srushti dineshkumar padval,Computer,Deloitte consulting,7.6
+20,Aditi lawa pandey,Computer,Bmc,12.5
+21,Pranjal rai,Computer,Bmc,12.5
+22,Kunal narendra zope,Computer,Bmc,12.5
+23,Mrunmai vinod bhole,Computer,Veritas technologies,11.75
+24,Hutesh ajinath vidhate,Computer,Dxc technology,3.6
+25,Aniket kumar,Computer,Paytm money,10
+26,Chetan salmotra,Computer,Paytm money,10
+27,Chinmay ankush upare,Computer,Paytm money,10
+28,Mohit jyotikumar katkar,Computer,Paytm money,10
+29,Pranav nandkishor vikharankar,Computer,Paytm money,10
+30,Rutik pradeep pol,Computer,Paytm money,10
+31,Sarfaraj rahimoddin shaikh,Computer,Paytm money,10
+32,Shubham suryakant pokharkar,Computer,Paytm money,10
+33,Vishakha gopal lokare,Computer,Paytm money,10
+34,Ayush choudhary,Computer,Celebal technologies,5
+35,Dhanashree parag rithe,Computer,Celebal technologies,5
+36,Sakshi kunal shejwal,M.tech-computer,Celebal technologies,5
+37,Ashutosh kumar,Computer,Blueconch technologies,6
+38,Hritik satish munde,Computer,Blueconch technologies,6
+39,Pooja nagnath kaulge,Computer,Blueconch technologies,6
+40,Ashish sanjeev sharma,Computer,Persistent systems,4.71
+41,Harshal narendra bharre,Computer,Persistent systems,4.71
+42,Pratiksha jalindar sabale,Computer,Persistent systems,4.71
+43,Rohit sanjay shevate,Computer,Persistent systems,4.71
+44,Sakshi adhik gaikwad,Computer,Persistent systems,4.71
+45,Sumit tukaram adsul,Computer,Apisero,5.1
+46,Vijaykumar tanaji deshmukh,Computer,Apisero,5.1
+47,Akanksha sheshrao ghatole,Computer,Ibm india (isdl),11
+48,Vaishnavi dattatry soundane,Computer,Ibm india (isdl),11
+49,Abhishek nityanand gadge,Computer,Amdocs,6
+50,Abhishek patro,Computer,Amdocs,6
+51,Ashnisha rajendra doundkar,Computer,Amdocs,6
+52,Jatan  jayesh patel,Computer,Amdocs,6
+53,Joel eldoe,Computer,Amdocs,6
+54,Kritika singh,Computer,Amdocs,6
+55,Sohel salim sayyed,Computer,Amdocs,6
+56,Tanishq deepak  kate,Computer,Amdocs,6
+57,Uddesh shalik shinde,Computer,Amdocs,6
+58,Virendra balasaheb chaure,Computer,Amdocs,6
+59,Vrunda pandurang fatangade,Computer,Amdocs,6
+60,Yadnesh sanjay chaudhari,Computer,Amdocs,6
+61,Swati shankar sawant,Computer,Blazeclan technologies,5.2
+62,Lekhanksh dharampal bondade,Computer,Blazeclan technologies,5.2
+63,Rutwik  ravindra deshmukh,Computer,Blazeclan technologies,5.2
+64,Arnav anand,Computer,Evosys,4.2
+65,Ganesh kailas pakhale,Computer,Evosys,4.2
+66,Manjusha satish zanke,Computer,Varroc engineering group,5
+67,Srushti maruti naikare,Computer,Nice software,5.25
+68,Tejas dinesh bagul,Computer,1silver bullet,5.5
+69,Ayush ranjan singh,Computer,1silver bullet,5.5
+70,Harshwardhan dnyaneshwar ghundare,Computer,Evry,4.5
+71,Mrunali arun ambhore,Computer,Wishtree technology,6
+72,Abhishekh kanilal alhat,Computer,Cybage software,4.5
+73,Kumar purushottam,Computer,Cybage software,4.5
+74,Swaraj pravin motiwale,Computer,Cybage software,4.5
+75,Varun dangri,Computer,Cybage software,4.5
+76,Sagar raju sonawane,Computer,Espressif systems india pvt ltd,17
+77,Akshay mahadev mastud,Computer,Abzooba india infotech,8
+78,Omkar shivaji jagtap,Computer,Abzooba india infotech,8
+79,Sushil rohidas kotwal,Computer,Accenture,6.5
+80,Tejas rajaram shelar,Computer,Accenture,6.5
+81,Saiprasad rajkumar bongulwar,Computer,Accenture,4.5
+82,Shraddha choudhary,Computer,Accenture,4.5
+83,Yash subhash gaikwad,Computer,Accenture,4.5
+84,Radhika sanjay dawle,Computer,Capgemini,4
+85,Shreyas tushar shingare,Computer,Cognizant,4
+86,Abhisangh singh arora,Computer,Cognizant,4
+87,Satyata dilesh dhargawe,Computer,Cognizant,4
+88,Shivam prithviraj singh,Computer,Cognizant,4
+89,Digvijay singh,Computer,Wipro,3.5
+90,Siddhant suresh jagdale,Computer,Hono.ai,4.5
+91,Yash shailesh patil,Computer,Mini orange software,8
+92,Sagar prakash choudhary,Computer,Sell do (kylas),8
+93,Saloni sharma,Computer,Accenture,4.5
+94,Nakul aggarwal,Computer,Tcs,4
+95,Saurabh santosh bankar,Computer,Motifworks,6
+96,Chaitra ravindra hiremath,Computer,Fiserv,8
+97,"Aishwarya shrinivas karampuri,",Computer,Fiserv,8
+98,Suraj subhash rathod,Computer,Infogain,4
+99,Suraj subhash rathod,Computer,Tcs,3.37
+100,Shraddha chorage,Computer,Whirlpool,7.5
+101,Pragati mahendra aboti,Computer,Johnson controls,5
+102,Shivani daulat bagal,Computer,Kylas/sell.do,7.88
+103,Amit kumar,Computer,Kylas/sell.do,7.88
+104,Rohit kapusing rajput,Computer,Intellipaat,5
+105,Mridul narang,Computer,Bristlecone,4.25
+106,Vedant taparia,Computer,Fis global,8.6
+107,Gajanan dagdu khande,Computer,Vodafone idea ltd,4.5
+108,Pooja dosi,Computer,Nielsen iq,5
+109,Payal raju warade,Computer,Nice software,5.8
+110,Gajanan dagdu khande,Computer,Nice software,5.8
+111,Ashish sanjeev sharma,Computer,Data axle,9.25
+112,Shivam prithviraj singh,Computer,Data axle,9.25
+113,Shraddha viay mune,M.tech-computer,Reval analytics services pvt. Ltd,5
+114,Ishwari rajendra sonparote,IT,Nice software,5.8
+115,Pranav nanasaheb gawade,IT,Eq technologic,10
+116,Rohit anand,IT,Eq technologic,10
+117,Aman sawarmal agarwal,IT,Zs associates pvt. Ltd.,9.5
+118,Ria subodh sigtia,IT,Zs associates pvt. Ltd.,9.5
+119,Ayush kumar,IT,Quantiphi analytics,8.5
+120,Ambuj mishra,IT,Integrated decision and systems pvt. Ltd (ideas),8
+121,Raj prabodh awate,IT,Accolite digital,8
+122,Sudhanshu shekhar,IT,Accolite digital,8
+123,Ajay sunil bhilare,IT,Deloitte consulting,7.6
+124,Hitesh bulani,IT,Deloitte consulting,7.6
+125,Jay naresh rawlani,IT,Deloitte consulting,7.6
+126,Ranadeep sajal dey,IT,Deloitte consulting,7.6
+127,Samiksha laxman murade,IT,Deloitte consulting,7.6
+128,Shweta manohar gund,IT,Deloitte consulting,7.6
+129,Sudhanshu vijay kale,IT,Deloitte consulting,7.6
+130,Yogesh bhaskar gaikwad,IT,Veritas technologies,11.75
+131,Akash anshu ashok kumar chaudhary,IT,Dxc technology,3.6
+132,Esha pravin sul,IT,Dxc technology,3.6
+133,Shivam sanjay kamble,IT,Dxc technology,3.6
+134,Mandar shankar desai,IT,Paytm money,10
+135,Mihir deven shah,IT,Paytm money,10
+136,Pund pradyumna sunil,IT,Paytm money,10
+137,Yash pravinkumar tiwari,IT,Celebal technologies,5
+138,Darshan sanjay mantri,IT,Persistent systems,4.71
+139,Gaurav babulal kalje,IT,Persistent systems,4.71
+140,Gouri mangesh ajmire,IT,Persistent systems,4.71
+141,Niharika nagesh sargam,IT,Persistent systems,4.71
+142,Premchand sharad ingale,IT,Persistent systems,4.71
+143,Rushikesh vijay bagal,IT,Persistent systems,4.71
+144,Sanskrut panjabrao atkari,IT,Persistent systems,4.71
+145,Pratik vijay wadodkar,IT,Apisero,5.1
+146,Abhishek balu dhakne,IT,Persistent systems,4.71
+147,Ritik bharat patil,IT,Persistent systems,4.71
+148,Shaurya ranjan,IT,Galaxe solutions,5
+149,Divya satish kundale,IT,Galaxe solutions,5
+150,Aniket sudhakarrao sawant,IT,Amdocs,6
+151,Gaurav onkar rathod,IT,Amdocs,6
+152,Kalpesh nevba raundal,IT,Amdocs,6
+153,Mahesh ashok bhatkar,IT,Amdocs,6
+154,Pratik  laxman pawar,IT,Amdocs,6
+155,Kalpesh nevba raundal,IT,Blazeclan technologies,5.2
+156,Ashish dilip nagpure,IT,Icertis solutions pvt. Ltd.,8
+157,Niharika nagesh sargam,IT,Cognizant,4.5
+158,Ajit kumar,IT,1silver bullet,5.5
+159,Ashish ranjan,IT,1silver bullet,5.5
+160,Vidya rani lad,IT,1silver bullet,5.5
+161,Tejas devidas patil,IT,1silver bullet,5.5
+162,Vijay maruti godase,IT,Robert bosch engineering and business solutions pvt. Ltd.,5
+163,Keshav jagdish bajaj,IT,Abzooba india infotech,8
+164,Sahil pandita,IT,Accenture,6.5
+165,Rishikesh sushil kale,IT,Accenture,4.5
+166,Gurpreet singh,IT,Mini orange software,8
+167,Manish mangesh shingare,IT,Cognizant,4
+168,Dinesh deepak thawani,IT,Infogain,4
+169,Ameya rajesh godbole,IT,Fis global,8.6
+170,Nikita badrinath kokate,IT,Cognizant,4
+171,Pratik rajendra bhangale,IT,Emerson,5
+172,Deep nanasaheb katkar,IT,Tibco software india private limited,5.6
+173,"Atharva sudhir kulkarni,",IT,Bristlecone,4.25
+174,Archana chandrasekhar phapale,IT,Cognizant,4
+175,Mayuri balu borate,IT,Cognizant,4
+176,Jay wamne,E&TC,Zs associates pvt. Ltd.,9.5
+177,Prathmesh salunkhe,E&TC,Zs associates pvt. Ltd.,9.5
+178,Pritesh gopal ghaywat,E&TC,Zs associates pvt. Ltd.,9.5
+179,Swadhin umesh nagulpelli,E&TC,Quantiphi analytics,8.5
+180,Dhruv kanther,E&TC,Deloitte consulting,7.6
+181,Manish kushwaha,E&TC,Deloitte consulting,7.6
+182,Piyush ramrao patil,E&TC,Deloitte consulting,7.6
+183,Pritesh kumar,E&TC,Deloitte consulting,7.6
+184,Sameer vijay nagrare,E&TC,Deloitte consulting,7.6
+185,Shreyas ashwin deo,E&TC,Deloitte consulting,7.6
+186,Shrirup avinash samrutwar,E&TC,Deloitte consulting,7.6
+187,Trupty manohar bisen,E&TC,Deloitte consulting,7.6
+188,Aman sinha,E&TC,Deloitte consulting,7.6
+189,Aashish vijay mali,E&TC,Dxc technology,3.6
+190,Akshata dattatray mamde,E&TC,Dxc technology,3.6
+191,Akshay  balu tarate,E&TC,Dxc technology,3.6
+192,Aniket babarao sonare,E&TC,Dxc technology,3.6
+193,Aniket namdeo kandalkar,E&TC,Dxc technology,3.6
+194,Ashish anil kale,E&TC,Dxc technology,3.6
+195,Devesh vishnudas barbind,E&TC,Dxc technology,3.6
+196,Dipti hemant darade,E&TC,Dxc technology,3.6
+197,Harshal moreshwar gharat,E&TC,Dxc technology,3.6
+198,Hrishikesh narayan sonawane,E&TC,Dxc technology,3.6
+199,Mahesh shankar ganganmale,E&TC,Dxc technology,3.6
+200,Mohit dadaji musale,E&TC,Dxc technology,3.6
+201,Prathamesh nagesh varashetti,E&TC,Dxc technology,3.6
+202,Rutvik santaji jadhav,E&TC,Dxc technology,3.6
+203,Samruddhi  sunil sankpal,E&TC,Dxc technology,3.6
+204,Shruti lahu lanke,E&TC,Dxc technology,3.6
+205,Abhilash kumar,E&TC,Persistent systems,4.71
+206,Aditya kumar  mallik,E&TC,Persistent systems,4.71
+207,Amit navnath nawale,E&TC,Persistent systems,4.71
+208,Ashpak hanif patel,E&TC,Persistent systems,4.71
+209,Parth sanjay yerane,E&TC,Persistent systems,4.71
+210,Sagar kalyan patil,E&TC,Persistent systems,4.71
+211,Satish narayan kanhale,E&TC,Persistent systems,4.71
+212,Vaishnavi dinesh pulate,E&TC,Persistent systems,4.71
+213,Shreedhara jayant wankhede,E&TC,Persistent systems,4.71
+214,Tejas ramvijay madhapure,E&TC,Galaxe solutions,5
+215,Kalyani dhananjay  more,E&TC,Galaxe solutions,5
+216,Prabodh uttam patil,E&TC,Galaxe solutions,5
+217,Pritamkumar dashrath deshmane,E&TC,Galaxe solutions,5
+218,Pratham  dattatray suryawanshi,E&TC,Galaxe solutions,5
+219,Abhinay balu  dhakne,E&TC,Amdocs,6
+220,Aishwarya sunil  sarkate,E&TC,Amdocs,6
+221,Gargi baban meshram,E&TC,Amdocs,6
+222,Gaurav jaywant patil,E&TC,Amdocs,6
+223,Shraddha niteen gupte,E&TC,Amdocs,6
+224,Vivek  budharam  yele,E&TC,Amdocs,6
+225,Gayatri dhananjay wadyalkar,E&TC,Evosys,4.2
+226,Ruchi rajesh mutha,E&TC,Evosys,4.2
+227,Prabodh uttam patil,E&TC,Cognizant,4.5
+228,Gopal madhukar chavan,E&TC,Varroc engineering group,5
+229,Kajal singh,E&TC,Nice software,5.25
+230,Vaishnavi pravin nilawar,E&TC,Nice software,5.25
+231,Harsh  kumar,E&TC,Tcs,4
+232,Vijay shravan talekar,E&TC,Tcs,4
+233,Farheen fahimoddin sayyad,E&TC,Robert bosch engineering and business solutions pvt. Ltd,5
+234,Rushikesh babasaheb shelke,E&TC,Robert bosch engineering and business solutions pvt. Ltd,5
+235,Rutuja balaji patil,E&TC,Robert bosch engineering and business solutions pvt. Ltd,5
+236,Snehal dinesh gaikwad,E&TC,Robert bosch engineering and business solutions pvt. Ltd,5
+237,Vedant dnyaneshwar naik,E&TC,Robert bosch engineering and business solutions pvt. Ltd,5
+238,Prabodh uttam patil,E&TC,Accenture,6.5
+239,Vaishnavi pravin nilawar,E&TC,Accenture,6.5
+240,Aman sunil walke,E&TC,Accenture,4.5
+241,Omkar pandit bhandare,E&TC,Accenture,4.5
+242,Rahul kumar,E&TC,Accenture,4.5
+243,Rutuja balaji patil,E&TC,Capgemini,4
+244,Shashank bhushan,E&TC,Cognizant,4
+245,Himanshu srivastava,E&TC,Cognizant,4
+246,Shreya changdev jawane,E&TC,Cognizant,4
+247,Shruti kishor fulsaunder,E&TC,Cognizant,4
+248,Amruta bhimrao mali,E&TC,Cognizant,4
+249,Alone mohit,E&TC,Cognizant,4
+250,Omkar vishnu sawant,E&TC,Cognizant,4
+251,Rupali bharat patil,E&TC,Cognizant,4
+252,Shrinivas anil phulwadkar,E&TC,Cognizant,4
+253,Soham chandrakant bhusari,E&TC,Cognizant,4
+254,Shivam prakash,E&TC,Cognizant,4
+255,Kuddusiya ayub shaikh,E&TC,Wipro,3.5
+256,Prashant maruti pawale,E&TC,Wipro,3.5
+257,Sandhya popat mali,E&TC,Wipro,3.5
+258,Akash chavan,E&TC,Uno minda group,4.5
+259,Prem subhash chaudhari,E&TC,Uno minda group,4.5
+260,Rutuja jitendra shelkande,E&TC,Allstate solutions india pvt. Ltd,5.5
+261,Prem subhash chaudhari,E&TC,Acidaes solutions pvt ltd (crmnext),3.4
+262,Abhishek goyal,E&TC,Acidaes solutions pvt ltd (crmnext),3.4
+263,Aditya kumar thakur,E&TC,Mini orange software,8
+264,Mayuri jivan kirde,E&TC,Accenture,4.5
+265,Tanvi hanumant surkute,E&TC,Orange telecom,4.4
+266,Mrunal dilip kukade,E&TC,Orange telecom,4.4
+267,Pratiksha ram pawar,E&TC,Orange telecom,4.4
+268,Aditya anil borse,E&TC,Alfa laval,5.76
+269,Abhishek ravindra sabne,E&TC,L&t technology services ltd.,4
+270,Rutuja nandkumar garad,E&TC,L&t technology services ltd.,4
+271,Samiksha sanjay shende,E&TC,Altimetrik,7
+272,Harshal suresh kadam,E&TC,Quest global,3.25
+273,Sourabh kalel,E&TC,Kylas/sell.do,7.88
+274,Nachiket pravin pusadkar,E&TC,Intellipaat,5
+275,Omkar pandit bhandare,E&TC,Hella india automotive pvt. Ltd,5
+276,Lokesh sunil patil,E&TC,Rise wpu,3.6
+277,Mansi nanaso pisal,E&TC,Michelin india pvt ltd,9.68
+278,Harshada subhash sarade,E&TC,Mindtree,4
+279,Karan khajuria,ETX,Deloitte consulting,7.6
+280,Atharva anant pande,ETX,Deloitte consulting,7.6
+281,Radha shyamrao hangarge,ETX,Dxc technology,3.6
+282,Ritesh namdeorao rathod,ETX,Persistent systems,4.71
+283,Sumit shriram kalbande,ETX,Apisero,5.1
+284,Suraj  bharat bhairat,ETX,Persistent systems,4.71
+285,Indranil balaram champati,ETX,Blazeclan technologies,5.2
+286,Meet kothari,ETX,Blazeclan technologies,5.2
+287,Ganesh prakash jagade,ETX,Icertis solutions pvt. Ltd.,8
+288,Samruddhi ganesh pattewar,ETX,Cognizant,4.5
+289,Om digambar avhad,ETX,Interactive brokers pvt. Ltd,9.35
+290,Raviraj narayan zagade,ETX,Nice software,5.25
+291,Pranav pravin mali,ETX,Robert bosch engineering and business solutions pvt. Ltd,5
+292,Samruddhi ganesh pattewar,ETX,Robert bosch engineering and business solutions pvt. Ltd,5
+293,Harshavardhan sanjiv vibhandik,ETX,Accenture,4.5
+294,Nikhil parshuram marathe,ETX,Accenture,4.5
+295,Anand balaji bharti,ETX,Capgemini,7.5
+296,Prathamesh vyankat sontakke,ETX,Capgemini,4
+297,Shubham anil kshirsagar,ETX,Capgemini,4
+298,Haridas dattatray makhar,ETX,Wipro,3.5
+299,Suyash sudhakar tirpude,ETX,Accenture,6.5
+300,Vipul prakash mahajan,ETX,Tcs,4
+301,Ritesh namdeorao rathod,ETX,Xoriant,8
+302,Anantrao baburao gawale,ETX,Orange telecom,4.4
+303,Prathamesh vyankat sontakke,ETX,Orange telecom,4.4
+304,Vaishnavi vilas samrutwar,ETX,Orange telecom,4.4
+305,Umesh dhondiba nagthane,ETX,Orange telecom,4.4
+306,Viraj rajendra deshmukh,ETX,Orange telecom,4.4
+307,Nisha banduappa tidke,ETX,Infosys,3.6
+308,Bhagyesh bhagwat joshi,ETX,Cognizant,4
+309,Aditya rakeshdeshmukh maurya,ETX,Cognizant,4
+310,Aditya  parashram hedaoo,ETX,Rudder analytics pvt. Ltd.,4.2
+311,Rutvik vilas minde,ETX,Vodafone idea,4.5
+312,Nikhil subhash  girme,Chemical,Dxc technology,3.6
+313,Kedar somnath dhongade,Chemical,Mu sigma business solutions,3.5
+314,Madura manoj bhatt,Chemical,Mu sigma business solutions,3.5
+315,Kritika  bhat,Chemical,Accenture,4.5
+316,Mrunal kumar barapatre,Chemical,Accenture,4.5
+317,Rahul govind rathod,Chemical,Accenture,4.5
+318,Ritika  kumari,Chemical,Accenture,4.5
+319,Shatabdi santosh jankar,Chemical,Accenture,4.5
+320,Prajwal virendrarao chaudhari,Chemical,Cognizant,4
+321,Athrav manoj jagtap,Chemical,Cognizant,4
+322,Samiksha raju ghodmare,Chemical,Cognizant,4
+323,Ritik gulab janbandhu,Chemical,Cognizant,4
+324,Snehal govind nalawade,Chemical,Cognizant,4
+325,Vedant nitin lachake,Chemical,Cognizant,4
+326,Yaseen yunus sheikh,Chemical,Cognizant,4
+327,Shreyan suresh koshti,Chemical,Cognizant,4
+328,Akshay dani,Chemical,Cognizant,4
+329,Yallesh laxmikant mone,Chemical,Cognizant,4
+330,Swapnil sanjay gaikwad,Chemical,Cognizant,4
+331,Aditya sanjiv jadhav,Chemical,Cognizant,4
+332,Pratiksha  gore,Chemical,Cognizant,4
+333,Omkar ashok lipare,Chemical,Wipro,3.5
+334,Aryan vaisnav,Chemical,Rudder analytics pvt. Ltd,4.2
+335,Akash anil babel,Chemical,Nielsen iq,5
+336,Rutuja sukhdeo darade,Chemical,Nielsen iq,5
+337,Laxmi mahesh shaha,Chemical,Worley,3.36
+338,Priti shankar kale,Chemical,Worley,3.36
+339,Samiksha raju ghodmare,Chemical,Worley,3.36
+340,Manisha baban patole,Civil,Cognizant,4
+341,Manisha baban patole,Civil,Aker power gas,4.5
+342,Suvarna subhash yewale,Civil,Aker power gas,4.5
+343,Deepti subhash patil,Civil,Tcs,4
+344,Babalu t. Gahire,Civil,Indovance pvt.ltd,3
+345,Shamal nagorao vasatkar,Civil,Indovance pvt.ltd,3
+346,Aboli raghunath  mule,Civil,Indovance pvt.ltd,3
+347,Akshada chandrakant pawar,Civil,Indovance pvt.ltd,3
+348,Prakash kumar,Civil,Rise wpu,3.6
+349,Shubham ajit marathe,Civil,Rise wpu,3.6
+350,Ajay ganesh katkar,Civil,Holcim,7
+351,Bhairavi anna patil,Civil,Holcim,7
+352,Deepti subhash patil,Civil,Holcim,7
+353,Shivali shivaji gohad,Civil,Holcim,7
+354,Arnav rameshwar khandare,Civil,Neilsoft pvt ltd.,3
+355,Suraj sanay borse,Civil,Neilsoft pvt ltd.,3
+356,Harshal bhagwan bari,Mechanical,Deloitte consulting,7.6
+357,Omkar vinod manapure,Mechanical,Deloitte consulting,7.6
+358,Suyog janardan patil,Mechanical,Deloitte consulting,7.6
+359,Pranav dhulaji shinde,Mechanical,Dxc technology,3.6
+360,Rutuja nanabhau deore,Mechanical,Dxc technology,3.6
+361,Siddheshwar revanappa vaidya,Mechanical,Dxc technology,3.6
+362,Prathamesh chandrakant gotad,Mechanical,Evosys,4.2
+363,Dnyaneshwari shriram pacharne,Mechanical,Mu sigma business solutions,3.5
+364,Gaurav bhimraj bagul,Mechanical,Mu sigma business solutions,3.5
+365,Rakesh rama sapkale,Mechanical,Mu sigma business solutions,3.5
+366,Sanket sanjay hon,Mechanical,Mu sigma business solutions,3.5
+367,Shivraj sanjay gursal,Mechanical,Mu sigma business solutions,3.5
+368,Vaibhav nagnath bhosale,Mechanical,Mu sigma business solutions,3.5
+369,Vinayak arun thote,Mechanical,Mu sigma business solutions,3.5
+370,Rutwick machhindranath pawar,Mechanical,Cognizant,4.1
+371,Rohan rajesh jawalkar,Mechanical,Tcs,3.37
+372,Jayesh anil shimpi,Mechanical,Cognizant,4.1
+373,Sujay dadabhau chaudhari,Mechanical,Cognizant,4.1
+374,Rutuja nanabhau deore,Mechanical,Cognizant,4.5
+375,Abhijeet rajkumar biradar,Mechanical,Varroc engineering group,5
+376,Kunjan deepak hire,Mechanical,Varroc engineering group,5
+377,Vedant niteen kulkarni,Mechanical,Varroc engineering group,5
+378,Shubham navnath taware,Mechanical,Accenture,6.5
+379,Jayesh anil shimpi,Mechanical,Accenture,4.5
+380,Mayur hiraman dhokale,Mechanical,Accenture,4.5
+381,Sonali prakash dhawade,Mechanical,Accenture,4.5
+382,Sujay dadabhau chaudhari,Mechanical,Accenture,4.5
+383,Satywan bhagwan khatke,Mechanical,Cognizant,4
+384,Piyush jeevan jagdale,Mechanical,Cognizant,4
+385,Ankit chhotu pithale,Mechanical,Cognizant,4
+386,Shantanu  pabitwar,Mechanical,Cognizant,4
+387,Manisha prabhakar kale,Mechanical,Cognizant,4
+388,Takshay vikas sayre,Mechanical,Cognizant,4
+389,Viraj rajendra adkane,Mechanical,Cognizant,4
+390,Dheeraj sudhakar chaudhari,Mechanical,Cognizant,4
+391,Keshav  kumar,Mechanical,Cognizant,4
+392,Harshada dhanraj bansode,Mechanical,Cognizant,4
+393,Suyash nandkishor shinde,Mechanical,Cognizant,4
+394,Satyjeet bhanudas biradar,Mechanical,Cognizant,4
+395,Divyansh waghmare,Mechanical,Cognizant,4
+396,Chetana sitaram totre,Mechanical,Tata electronics private limited,6
+397,Deepti ashok thigale,Mechanical,Tata electronics private limited,6
+398,Paras kapoor,Mechanical,Procmart,3.5
+399,Deepak katole,Mechanical,Procmart,3.5
+400,Rohan  rajesh jawalkar,Mechanical,Accenture,4.5
+401,Pranav dhulaji shinde,Mechanical,Aker powergas pvt. Ltd.,4.5
+402,Namrata vikas surwase,Mechanical,Tcs,4
+403,Komal bapurao bondare,Mechanical,Linde india,5
+404,Vasundhara tukaram arya,Mechanical,Linde india,5
+405,Devendra kishor chaudhari,Mechanical,Faurecia,4.5
+406,Ganesh kiran andhale,Mechanical,Faurecia,4.5
+407,Tanmay kishor navarkar,Mechanical,Acg world group,4.5
+408,Gaurav bhimraj bagul,Mechanical,Tcs,3.37
+409,Shantanu  pabitwar,Mechanical,Tcs,7
+410,Shrutika ramkrishna ghadage,Mechanical,Intellipaat,5
+411,Suraj dashrath rathod,Mechanical,Intellipaat,5
+412,Rushikesh vishwambhar kale,Mechanical,Rudder analytics pvt. Ltd,4.2
+413,Jay dhananjay banbheru,Mechanical,Kion dematic,5
+414,Shubham sanjay koshti,Mechanical,Kion dematic,5
+415,Shubham jotiram kadam,Mechanical,Unity gauge,2.5
+416,Satyam balu fulzele,Mechanical,Unity gauge,2.5
+417,Atul haribhau lokhande,Mechanical,Rise wpu,3.6
+418,Abhinav satish date,Mechanical,Ifb industries ltd,5.5
+419,Onkar lokesh vibhute,Mechanical,Ifb industries ltd,5.5
+420,Samanta soumabha ranajit,Mechanical,Ifb industries ltd,5.5
+421,Onkar lokesh vibhute,Mechanical,Imerys,4.5
+422,Satyam balu fulzele,Mechanical,Aker solutions,4.5
+423,Siddheshwar revanappa vaidya,Mechanical,Arcelor mittal nippon steel,4.5
+424,Ashwini bhausaheb haral,Computer,Synpulse india pvt. Ltd.,7
+425,Mohit dadaji musale,E&TC,Synpulse india pvt. Ltd.,7
+426,Sonali prakash dhawade,Mechanical,Synpulse india pvt. Ltd.,7
+427,Supriya mahendra thakare,Chemical,Synpulse india pvt. Ltd.,7
+428,Piyush jeevan jagdale,Mechanical,Jsw,8
+429,Prasad rajendra palave,Mechanical,Jsw,8
+430,Pratiksha gore,Chemical,Jsw,8
+431,Shreyan suresh koshti,Chemical,Jsw,8
+432,Satywan bhagwan khatke,Mechanical,Sulzer tech india pvt ltd,7.5
+433,Suraj navnath durande,Mechanical,Sulzer tech india pvt ltd,7.5
+434,Shoaib dilawar nadaf,ETX,Tech mahindra  cerium systems,3.6
+435,Mrunal kumar barapatre,Chemical,Synpulse india pvt. Ltd.,7
+436,Neel deepak saraf,Mechanical,Neilsoft,3
+437,Aditya chandrakant hande,It,Michelin,8.2
+438,Sahil jitendra kohinkar,Computer,Michelin,8.2
+439,Shreyas kashinath pani,E&TC,Michelin,8.2
+440,Tanaya milind ighe,E&TC,Michelin,8.2
+441,Rushikesh vijay bagal,It,Onlinesales.ai,10.31
+442,Rahul ajay tah,Computer,Onlinesales.ai,10.31
+443,Purwal udaykant tayade,Mechanical,Jsw,8
+444,Anupama  ajay deshmukh,Computer,Holtec asia,4
+445,Preksha saagar bhavsar,Computer,Holtec asia,4
+446,Kunal rajeshrao pethe,Chemical,Zs associates,8.5
+447,Raihan ashad biswas,Mechanical,Zs associates,8.5
+448,Mayuri jivan kirde,E&TC,Adani group,6
+449,Samruddhi  sunil sankpal,E&TC,Forbes marshall pvt. Ltd,6
+450,Meghraj kamalakar sonawane,E&TC,Forbes marshall pvt. Ltd,6
+451,Shatabdi santosh jankar,Chemical,Technip energies,6.2
+452,"Pratiksha santosh kakade,",Mechanical,Kpit,4
+453,Rutuja rajendra sav,IT,Mynd solutions,5
+454,Akshay  balu tarate,E&TC,Tata play fiber,6.5
+455,Gautam jha,IT,Onlinesales.ai.,10
+456,Avadh  batukbhai dobaria,Computer,Onlinesales.ai.,10
+457,Gurpreet singh,IT,Onlinesales.ai.,10
+458,Ajinkya prabhakar pathare,E&TC,Storopack india pvt. Ltd.,3
+459,Shubham jotiram kadam,Mechanical,Hni corporation,4
+460,"Pratiksha santosh kakade,",Mechanical,Hni corporation,4
+461,Rohit nagesh  suryawanshi,Computer,Poonawalla fincorp ltd,6.5
+462,Shantanu manik yelmame,Computer,Poonawalla fincorp ltd,6.5
+463,Ashish anil kale,E&TC,Samsung electronics,7
+464,Prashant  maruti pawale,E&TC,Samsung electronics,7
+465,Yash sharma,E&TC,Samsung electronics,7
+466,Swapnil sudam dalvi,Mechanical,Tox pressotechnik india,3.5
+467,Ritika kumari,Chemical,Jsw,8
+468,Chirag kishor kamani,ETX,Tata elxsi ltd,3.5
+469,Himanshu kishor more,E&TC,Tata elxsi ltd,3.5
+470,Nagnath suryaji more,E&TC,Tata elxsi ltd,3.5
+471,Prateek s. Suryawanshi,E&TC,Tata elxsi ltd,3.5
+472,Shubham balaji rengunthwar,E&TC,Tata elxsi ltd,3.5
+473,Tejas arun sonkule,IT,Tata elxsi ltd,3.5
+474,Vivek gupta,Computer,Tata elxsi ltd,3.5
+475,Shruti bramha jadhav,ETX,L&t technology services ltd,4.5
+476,Akanksha mohankumar dhawale,ETX,L&t technology services ltd,4.5
+477,Siddesh anil gawande,ETX,L&t technology services ltd,4.5
+478,Anand balaji bharti,ETX,L&t technology services ltd,4.5
+479,Anirudh anandrao deshmukh,Mechanical,L&t technology services ltd,4.5
+480,Rutvik santaji jadhav,E&TC,Fyndna tech corp pvt ltd,8
+481,Shubham jotiram kadam,Mechanical,Tetra pak india pvt. Ltd.,6.28
+482,Sagar prakash choudhary,Computer,Appdirect,12
+483,Avinash sunil jadhav,Civil,Stanza living,3
+484,Keshav sharma,Computer,Quantiphi analytics solutions,8.5
+485,Rohan jayant lad,Computer,Ideaforge technology pvt ltd,7
+486,Aditya gopalrao deshmukh,Mechanical,Semsys pvt. Ltd.,3.6
+487,Sumit anil raut,Mechanical,Semsys pvt. Ltd.,3.6
+488,Bhavesh valmik patil,Mechanical,Hni corporation,4
+489,Mauli hanumant tele,Chemical,Ingenero,2.4
+490,Mayur eknath saykar,Chemical,Ingenero,2.4
+491,Pankaj mhaske,Chemical,Ingenero,2.4
+492,"Virendra sanjay avhad,",E&TC,Bosch global software technologies,5
+493,Divyansh waghmare,Mechanical,Pro-mobi technologies,6
+494,Jaideep kulkarni,Mechanical,Nielseniq,8.22
+495,Rutwick machhindranath pawar,Mechanical,Nielseniq,8.22
+496,Nomesh anand meshram,Chemical,Nielseniq,8.22
+497,Bhavesh omprakash pardhi,Civil,Nielseniq,8.22
+498,Mayur gajanan patond,Mechanical,Nielseniq,8.22
+499,Vijay shravan talekar,E&TC,Magna electronics,6
+500,Rupali bharat patil,E&TC,Magna electronics,6
+501,Ashish anil kale,E&TC,Magna electronics,6
+502,"Virendra sanjay avhad,",E&TC,Magna electronics,6
+503,Meghraj kamalakar sonawane,E&TC,Magna electronics,6
+504,Arshi rameshwar kolge,Mech,Forbes & company limited,3.5
+505,Harshal mahendra piwal,Mech,Rise wpu,4
+506,Rajesh bhat,Civil,Rise wpu,4
+507,Vaibhav goraksha dandawate,Mech,Equilibrium solutions pvt. Ltd,4.2
+508,Manisha prabhakar  kale,Mech,Equilibrium solutions pvt. Ltd,4.2
+509,Pranav kailas pawar,Civil,Vconstruct pvt. Ltd.,4.5
+510,Swapnil maruti jogdand,Computer,Snowflake,9
+511,Ravindra suresh wankhede,Chemical,Chloride metal limited,2.4
+512,Ritik naresh panchal,Chemical,Chloride metal limited,2.4
+513,Prashant anil pawar,Chemical,Chloride metal limited,2.4
+514,Prasad nandu raut,Chemical,Chloride metal limited,2.4
+515,Vaibhav rajendrarao  durge,Chemical,Chloride metal limited,2.4
+516,Manoj chandu bhoiwar,Chemical,Chloride metal limited,2.4
+517,Shubham shyam jangam,Chemical,Chloride metal limited,2.4
+518,Rushikesh dnyanoba kamble,E&TC,Ismt ltd(kfil),4
+519,Mandar dipak dabhade,ETX,Accolade electronics,4
+520,Ganesh uttam kelgendre,E&TC,Atos,3.4
+521,Ajay sandipan patil,Chemical,Croda chemicals,2.4
+522,Tejas vilas gadekar,Chemical,Ecolab,3.58
+523,Sakshisantosh waghela,Chemical,Biopharmax,3
+524,Tanisha tapan ajmera,Chemical,Infosys,3.6
+525,Shubham gajanan ingale,Chemical,Infosys,3.6
+526,Vikramaditya rajendra lande,Chemical,Infosys,3.6
+527,Dhanashri bhaulal sormare,Chemical,Infosys,3.6
+528,Neha mahendra thakare,Chemical,Infosys,3.6
+529,Dwarkesh prashant more,Computer,T-systems,4
+530,Yash vilas tambatkar,Computer,Galaxe solutions,4.5
+531,Amruta bhimrao mali,E&TC,Galaxe solutions,4.5
+532,Dnyaneshwari ramdas dhumal,E&TC,Galaxe solutions,4.5
+533,Shreyas sanjiv kotgire,Mechanical,Dassault systemes,5.4
+534,Bhagyesh bhagwat joshi,ETX,Magna electronics,7
+535,Ganesh uttam kelgandre,E&TC,Magna electronics,7
+536,Mahesh shankar ganganmale,E&TC,Magna electronics,7
+537,Mandar dipak dabhade,E&TC,Magna electronics,7
+538,Nikhil parshuram marathe,ETX,Magna electronics,7
+539,Prathamesh nagesh varashetti,E&TC,Magna electronics,7
+540,Shreya changdev jawane,E&TC,Magna electronics,7
+541,Mahfooz akhter,Computer,Ag data,6
+542,Ved parag vadake,E&TC,Bentley systems,10.38
+543,Govind prakash bharkade,ETX,Emerging automaticity pvt. Ltd,5.4
+544,Vilopa jagdish utwale,Mechanical,Stellantis india ,5.5
+545,Yash swad deshpande,Mechanical,Fortune business insights,4.1
+546,Rushikesh vinod mehakare,Mechanical,Crescendo worldwide pvt. Ltd,4
+547,Rahul ashok bijjargi,Mechanical,Crescendo worldwide pvt. Ltd,4
+548,Pooja deepak sakpal,ETX,Crescendo worldwide pvt. Ltd,4
+549,Ayush choudhary,Computer,Bentley system,10.38
+550,Aryan Keshav  Naikare,Mechanical,Alten-India,3.5
+551,Hrishikesh Narayan Sonawane,E&TC,Schaeffler,6
+552,Nagesh Sopan Sangle,Mechanical,JSW Steel Ltd,8
+553,Ajay Sandipan Patil,Chemical ,JSW Steel Ltd,8
+554,Mayank Suresh Bundele,Chemical ,JSW Steel Ltd,8
+555,Prajwal Virendrarao Chaudhari,Chemical ,JSW Steel Ltd,8
+556,Pankaj Vitthal Mhaske,Chemical ,JSW Steel Ltd,8
+557,Nilesh Babasaheb Darade,Civil,PPS Group,3
+558,Prajakta  Sanjay Pehere,Civil,PPS Group,3
+559,Mangesh Narahari Pawar ,Mechanical,Sanghvi movers limited,3.56
+560,Paras kapoor,Mechanical,Sanghvi movers limited,3.56

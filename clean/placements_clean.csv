@@ -1,348 +1,483 @@
 sno,student_name,branch,company,package_lpa,academic_year
-1,Sara Dinesh Bare,Computer,Phonepe,23.2,2025
-2,Gauri Mukund Joshi,Computer,Phonepe,23.2,2025
-3,Parth Rajendra Wattamwar,Computer,Contentstack,11.77,2025
-4,Tejas Ashok Pingale,Computer,Contentstack,11.77,2025
-5,Shinde Yash Hari,Computer,Contentstack,11.77,2025
-6,Samarp Parasdas Jain,Computer,Contentstack,11.77,2025
-7,Abhishek Sandeep Pawar,Computer,BMC,14.0,2025
-8,Kartikeiya Rai,Computer,Avaya India,14.0,2025
-9,Aakash Jivendra Bachhav,Computer,ZS Associates India Pvt Ltd,13.65,2025
-10,Maitreyee Mahesh Deshmukh,Computer,ZS Associates India Pvt Ltd,13.65,2025
-11,Mohit Surendra Lalwani,Computer,ZS Associates India Pvt Ltd,13.65,2025
-12,Saurabh Shahajirao Pawar,Computer,ElasticRun,8.0,2025
-13,Sumer Shahed Ali,Computer,ElasticRun,8.0,2025
-14,Angad Damodar Kharate,Computer,IBM (ISDL),11.0,2025
-15,Baviskar Riya Avinash,Computer,IBM (ISDL),11.0,2025
-16,Khush Shaileshkumar Patel,Computer,Odoo IN Pvt Ltd,15.0,2025
-17,Nankar Sanika Eknath,Computer,Cisco,18.0,2025
-18,Atharva Ravindra Lokhande,Computer,GalaxE Solutions,5.0,2025
-19,Derkar Ganesh Ramdas,Computer,GalaxE Solutions,5.0,2025
-20,Holkar Yashraj,E&TC,GalaxE Solutions,5.0,2025
-21,Samruddhi Ajay Kakad,E&TC,GalaxE Solutions,5.0,2025
-22,Shinde Pranjali Mahesh,E&TC,GalaxE Solutions,5.0,2025
-23,Shriram Vishnu Kekan,Computer,GalaxE Solutions,5.0,2025
-24,Shruti Biradar,Computer,GalaxE Solutions,5.0,2025
-25,Girhe Shruti Sunil,Computer,GalaxE Solutions,5.0,2025
-26,Patil Rohit Brijlal,Computer,GalaxE Solutions,5.0,2025
-27,Patil Vitthal Janardan,E&TC,GalaxE Solutions,5.0,2025
-28,Satone Amey Manohar,Computer,GalaxE Solutions,5.0,2025
-29,Siddhi Mahesh Mulewar,E&TC,GalaxE Solutions,5.0,2025
-30,Desai Pratik Sanjay,Mechanical,Firefly Fire Pumps Pvt Ltd,5.88,2025
-31,Bangar Aishwarya Ajinath,E&TC,Amadeus Software Labs,11.5,2025
-32,Deore Om Dhananjay,E&TC,Amadeus Software Labs,11.5,2025
-33,Dhobale Prasad Arun,Computer,Amadeus Software Labs,11.5,2025
-34,Taniya Motiwal,Computer,Deloitte,7.6,2025
-35,Shivam Arun Darekar,Computer,Deloitte,7.6,2025
-36,Pawase Jagruti Tanaji,Chemical,Technip Energies India,6.5,2025
-37,Pandagare Rakhi Sudam,Civil,Technip Energies India,6.5,2025
-38,Aditya Sandeep Dhamale,Computer,Bajaj Finance Health,8.0,2025
-39,Dhonde Aditya Gahininath,Computer,Bajaj Finance Health,8.0,2025
-40,Rahul Malakappa Hiragond,Computer,Bajaj Finance Health,8.0,2025
-41,Akash Dhondiba Dhotre,Chemical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-42,Bachkar Harsh Dattatraya,Chemical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-43,Kahandal Ganesh Sanjay,Chemical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-44,Yash Yuvraj Mahalle,Chemical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-45,Bhute Prathmesh Chandrakant,E&TC,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-46,Jawadwar Sahil Sunil,E&TC,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-47,Dhaye Tanmay Vishnu,Mechanical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-48,Madhav Narayanrao Murshetwad,Mechanical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-49,Om Vitthal Manedeshmukh,Mechanical,Instant Procurement Services Pvt. Ltd. (ProcMart),4.5,2025
-50,Kasturi Pravin Dive,Computer,Principal Global,8.0,2025
-51,Mundhe Pragati Gajanan,E&TC,Principal Global,8.0,2025
-52,Amrit Shyam Kadbhane,Computer,Principal Global,8.0,2025
-53,Ansari Shubhan Naushad,Computer,Principal Global,8.0,2025
-54,Khamkar Amey Hanmant,Computer,Principal Global,8.0,2025
-55,Nair Akhilesh Jayakrishnan,Mechanical,Bajaj Mukand Ltd.,7.4,2025
-56,Patil Madhuri Vasant,Mechanical,Bajaj Mukand Ltd.,7.4,2025
-57,Raut Sheyash Pandurang,Mechanical,Bajaj Mukand Ltd.,7.4,2025
-58,Aadarsh Pravin Wadile,Computer,Quantiphi,8.5,2025
-59,Ikanshdeep Singh,Computer,Quantiphi,8.5,2025
-60,Vinit Ashok Patel,Computer,Quantiphi,8.5,2025
-61,Vipul pawar,Computer,Quantiphi,8.5,2025
-62,Vyavhare Abhijeet Vidwan,Computer,Dealermatix Technologies Pvt. Ltd,5.0,2025
-63,Rajmod Vijay Mallu,Computer,Oracle Financial Software Services Ltd,9.34,2025
-64,Shreyas Sudhir Bhosale,Computer,Oracle Financial Software Services Ltd,9.34,2025
-65,Deshmukh Amruta Yayati,Mechanical,ITW Automotive India,3.6,2025
-66,Patil Purvaja Pravin,Mechanical,ITW Automotive India,3.6,2025
-67,Atharav Ajay Mohod,Computer,Data Fortune Software,5.5,2025
-68,Varun Anantkumar Khambayate,Computer,Data Fortune Software,5.5,2025
-69,Rajput Ashutosh Vijaysing,Computer,Prorigo Software,4.0,2025
-70,Ozalwar Aditya Rajesh,Computer,Prorigo Software,4.0,2025
-71,Sachin Kunal Kamble,Computer,Prorigo Software,4.0,2025
-72,Vruksheeka Vijay Deshmukh,E&TC,Force Motors Ltd,6.5,2025
-73,Nikita Sanjay Gaikwad,Mechanical,Force Motors Ltd,6.5,2025
-74,Samruddhi Appasaheb Shinde,Computer,Force Motors Ltd,6.5,2025
-75,Abhishek Sanjay Bhosale,E&TC,Effigo Global,7.0,2025
-76,Kunal Anant Supekar,E&TC,Effigo Global,7.0,2025
-77,Martand Manoj Mahajan,E&TC,Effigo Global,7.0,2025
-78,Bhonde Vaishnavi Ramesh,Computer,LTI Mindtree Ltd.,4.05,2025
-79,Ghodke Ashlesh Maruti,E&TC,LTI Mindtree Ltd.,4.05,2025
-80,Nimbalkar Harshvardhan Bapuji,E&TC,LTI Mindtree Ltd.,4.05,2025
-81,Shrigondekar Lavlesh Sanjay,E&TC,LTI Mindtree Ltd.,4.05,2025
-82,Tanvi Dharmendra Dukare,E&TC,LTI Mindtree Ltd.,4.05,2025
-83,Wath Shreya Dattatraya,Computer,LTI Mindtree Ltd.,4.05,2025
-84,Sanika Sunil Deshmukh,Mechanical,Eaton,9.0,2025
-85,Vaibhav Sudam Sanap,Mechanical,Eaton,9.0,2025
-86,Akash Sitaram Totre,Mechanical,Eaton,9.0,2025
-87,Mukesh Bhaktraj Gautam,Mechanical,Eaton,9.0,2025
-88,Aditya Sandeep Lonkar,Mechanical,NYEI,6.6,2025
-89,Mangesh Sanjay Ghadage,Computer,Xceedance,5.5,2025
-90,Isha Prakash Agrawal,Computer,Xceedance,5.5,2025
-91,Jangade Om Prashant,Computer,Xceedance,5.5,2025
-92,Nikhil S Patil,Computer,Xceedance,5.5,2025
-93,Sankpal Manasi Gajanan,Computer,Xceedance,5.5,2025
-94,Vishwajeet Jaysingh Gaikwad,Computer,EPAM Systems India Pvt Ltd,8.0,2025
-95,Aniket Kumar,Computer,Infosys,3.6,2025
-96,Prayag Pradip More,Computer,Infosys,3.6,2025
-97,Eamin Jawed Khan,Computer,Infosys,3.6,2025
-98,Kunal Sachin Kamble,Computer,Infosys,3.6,2025
-99,Sakshi Kailas Deshmukh,E&TC,Infosys,3.6,2025
-100,Gorule Prithviraj Sukhdeo,Computer,Infosys,3.6,2025
-101,Prathmesh Anil Lokhande,E&TC,Infosys,3.6,2025
-102,Nagdekar Anushk Ravindra,Computer,Infosys,3.6,2025
-103,Sreyash Chavan,E&TC,Infosys,3.6,2025
-104,Sushil Subhash Hogale,Computer,Roboyo Automation India,4.5,2025
-105,Rohit Abhijit Patil,E&TC,Roboyo Automation India,4.5,2025
-106,Shreeja Jiddewar,Computer,Roboyo Automation India,4.5,2025
-107,Yash Ranjit Parde,Mechanical,Cummins India Ltd,8.15,2025
-108,Bari Gauri Bhagwan,Mechanical,Worley,5.8,2025
-109,Pravin Shivaji Joshi,Mechanical,Worley,5.8,2025
-110,Patare Vaishali Gorakshanath,Mechanical,Worley,5.8,2025
-111,Eamin Jawed Khan,Computer,Enabl3 Systems Consulting Private Limited,9.0,2025
-112,Shingare Sarvesh Sanjay,Computer,Enabl3 Systems Consulting Private Limited,9.0,2025
-113,Gundawar Gargi Atul,E&TC,Enabl3 Systems Consulting Private Limited,9.0,2025
-114,Pritee Ramchandra Shingate,Computer,Enabl3 Systems Consulting Private Limited,9.0,2025
-115,Sakunde Sandeep Gangadhar,Civil,vConstruct Pvt Ltd,5.25,2025
-116,Balaji Sharad Kure,Civil,vConstruct Pvt Ltd,5.25,2025
-117,Pawar Anagha Mohan,Computer,Bharti Airtel Ltd,5.5,2025
-118,Snehal Patil,E&TC,Bharti Airtel Ltd,5.5,2025
-119,Gawade Mansi Manohar,Computer,Bharti Airtel Ltd,5.5,2025
-120,Tanvi Tukaram Pednekar,Computer,Bharti Airtel Ltd,5.5,2025
-121,Sankpal Shivani Anil,Computer,Bharti Airtel Ltd,5.5,2025
-122,Lokhande Prasad Ramkrishna,Computer,Online Sales,8.0,2025
-123,Hirave Sanket Dipak,Chemical,LTI Mindtree,4.05,2025
-124,Chaitanya Bhai Patil,Mechanical,Blue Star Ltd,5.25,2025
-125,Siddhant Kiran Tayade,E&TC,KEIO Bus Co. Ltd,13.36,2025
-126,Sathe Ajinkya Ramesh,Mechanical,KEIO Bus Co. Ltd,13.36,2025
-127,Dhargawe Raunak Ravindra,Mechanical,KEIO Bus Co. Ltd,13.36,2025
-128,Sagarika Arvind Ghom,E&TC,UST,4.25,2025
-129,Mohit Phoolchand Jaiswal,Computer,Fictive Technologies Solutions Pvt Ltd,8.5,2025
-130,Omkar Rajaram Patil,Computer,Fictive Technologies Solutions Pvt Ltd,8.5,2025
-131,Patil Pratik Vikas,Computer,Fictive Technologies Solutions Pvt Ltd,8.5,2025
-132,Ghom Sagarika Arvind,E&TC,Simplify Healthcare,4.25,2025
-133,Nageshwar Krishnakant,ETX,Nibrus Technologies Pvt Ltd,6.0,2025
-134,Ayush Ajay Zile,E&TC,Nibrus Technologies Pvt Ltd,6.0,2025
-135,Fernandes Alden Canute,Computer,ALLEGIS GROUP,7.0,2025
-136,Sahane Ruchita Shivaji,ETX,ALLEGIS GROUP,7.0,2025
-137,Girish Anil Amrutkar,E&TC,ALLEGIS GROUP,7.0,2025
-138,Takate Chetan Mahesh,E&TC,ALLEGIS GROUP,7.0,2025
-139,Suraj Shridhar Vidap,Chemical,ALLEGIS GROUP,7.0,2025
-140,Ramyata Rohan Mendhe,ETX,ALLEGIS GROUP,7.0,2025
-141,Gayatri Ajay Sonune,E&TC,ALLEGIS GROUP,7.0,2025
-142,Pranjal Sharma,Computer,ALLEGIS GROUP,7.0,2025
-143,Sahil Sambhaji Bhor,Chemical,Wex Technologies,3.5,2025
-144,Tejas Dattatray Narsale,Chemical,Wex Technologies,3.5,2025
-145,Waghmare Adesh Sopan,Mechanical,Rieter India Pvt Ltd,4.0,2025
-146,Akash Manik Nalawade,Computer,WINSOFT SOLUTIONS,3.0,2025
-147,Pardeshi Bhavesh Shyamkant,Mechanical,Nirtech Pvt Ltd,3.0,2025
-148,Tambe Isha Amit,Chemical,Nirtech Pvt Ltd,3.0,2025
-149,Hake Munja Raghunath,Chemical,Nirtech Pvt Ltd,3.0,2025
-150,Pratik Kawade Pandit,Chemical,Nirtech Pvt Ltd,3.0,2025
-151,Kathe Vaishnavi Sharad,Mechanical,Nirtech Pvt Ltd,3.0,2025
-152,Anushka Namdev Gunjal,Mechanical,Power Drive Bearings Pvt. Ltd,4.0,2025
-153,Dhruve Talmale,Mechanical,Power Drive Bearings Pvt. Ltd,4.0,2025
-154,Riya Dyaneshwar Hulule,E&TC,Enzigma Solutions,5.0,2025
-155,Yagya Solanki,E&TC,Enzigma Solutions,5.0,2025
-156,Simran Madhu Mondal,Chemical,Aegis Logistics Ltd,5.0,2025
-157,Aditya Kishor Dhanwai,Computer,Atidan Technologies,4.5,2025
-158,Aparupa Giri,Chemical,JSW,8.0,2025
-159,Bachkar Harsh Dattatraya,Chemical,JSW,8.0,2025
-160,Rushikesh Eknath Kolhe,Mechanical,JSW,8.0,2025
-161,Mayuresh Himmatrao Mane,Mechanical,JSW,8.0,2025
-162,Tejas Dattatray Narsale,Chemical,JSW,8.0,2025
-163,Chaitanya Bhai Patil,Mechanical,JSW,8.0,2025
-164,Mrunal Pradip Phase,Chemical,JSW,8.0,2025
-165,Suryakant Ishwar Atkare,Mechanical,JSW,8.0,2025
-166,Akash Ramprasad Tandekar,Chemical,JSW,8.0,2025
-167,Sandesh Prabhakar Wakode,Mechanical,JSW,8.0,2025
-168,Kaustubh Sunil Phatangare,Computer,Sasken Technologies Pvt Ltd,5.0,2025
-169,Saurabh Rajabhau Deshmukh,Computer,Sasken Technologies Pvt Ltd,5.0,2025
-170,Navnath Ashok Mundhe,Mechanical,Blue Star Ltd,5.25,2025
-171,Shruti Milind Dhumal,Computer,Candescent NCR VOYIX,10.0,2025
-172,Vedant Prakash Mane,Computer,Candescent NCR VOYIX,10.0,2025
-173,Shripad Kailas Dahale,Computer,Candescent NCR VOYIX,10.0,2025
-174,Prachi Ramchandra Chavan,Computer,Jaro Education,8.58,2025
-175,Vedant Rajesh Ubale,Mechanical,Godrej & Boyce Manufacturing Company Ltd,7.75,2025
-176,Abhishek Shrikant More,Mechanical,Godrej & Boyce Manufacturing Company Ltd,7.75,2025
-177,Dhruve Ravindra Talmale,Mechanical,Godrej & Boyce Manufacturing Company Ltd,7.75,2025
-178,Mohit Govind Agrawal,Mechanical,Godrej Enterprises Group,7.75,2025
-179,Soham Gorakshanath Bhosale,Chemical,JSW,8.0,2025
-180,Aman Rameshwar Wadgaonkar,Computer,Mobirey Technologies,5.0,2025
-181,Arvinpreet Singh Bali,Computer,Mobirey Technologies,5.0,2025
-182,Ayush Koul,Computer,Mobirey Technologies,5.0,2025
-183,Bhosale Akshay Sujitkumar,Computer,Mobirey Technologies,5.0,2025
-184,Gaikwad Tanavi Prakash,Computer,Mobirey Technologies,5.0,2025
-185,Jagruti Dattatray Waje,Computer,Mobirey Technologies,5.0,2025
-186,Kaustubh Dinesh Bhavsar,Computer,Mobirey Technologies,5.0,2025
-187,Mohite Dipak Balu,Computer,Mobirey Technologies,5.0,2025
-188,Pratham Tilakkumar Patharkar,Computer,Mobirey Technologies,5.0,2025
-189,Pritam Rajendra Gajare,Computer,Mobirey Technologies,5.0,2025
-190,Shashank Rupesh Patil,Computer,Mobirey Technologies,5.0,2025
-191,Turkar Dhawal Homendrakumar,Computer,Mobirey Technologies,5.0,2025
-192,Vivek Raj,Computer,Mobirey Technologies,5.0,2025
-193,Ayush Koul,Computer,Flextrade Systems,9.75,2025
-194,Gauri Vinod Kardekar,Computer,Flextrade Systems,9.75,2025
-195,Akash Kailas Gawade,Mechanical,Suzlon Energy,3.0,2025
-196,Santosh Kantilal Mate,Mechanical,Suzlon Energy,3.0,2025
-197,Aditya Sunil Nawkar,Mechanical,Blue Energy Commercial Vehicles Ltd,4.0,2025
-198,Tanmay Hemantarao Dhekane,Mechanical,Blue Energy Commercial Vehicles Ltd,4.0,2025
-199,Kaushik Santosh Chaudhari,ETX,Blue Energy Commercial Vehicles Ltd,4.0,2025
-200,Indrajit Sunil Desai,ETX,Blue Energy Commercial Vehicles Ltd,4.0,2025
-201,Pranay Prakash Solanki,Mechanical,Blue Energy Commercial Vehicles Ltd,4.0,2025
-202,Yeotikar Prathmesh Abhaychandra,Mechanical,Shizutetsu Justline Company Ltd,14.0,2025
-203,Dangra Lokesh Gourish,Mechanical,Shizutetsu Justline Company Ltd,14.0,2025
-204,Pratik Prakash Dhamal,Mechanical,L&T Technology Services,4.01,2025
-205,Krushna Subhash Kadam,Mechanical,L&T Technology Services,4.01,2025
-206,Prathmesh Rambhau Raut,Mechanical,L&T Technology Services,4.01,2025
-207,Vivek Milin Chavan,Mechanical,L&T Technology Services,4.01,2025
-208,Bhushan Shivaji Shirfule,Mechanical,L&T Technology Services,4.01,2025
-209,Mayurakshi Prakash Salve,Mechanical,L&T Technology Services,4.01,2025
-210,Atharva Pravin Yeole,Mechanical,L&T Technology Services,4.01,2025
-211,Rahul Balaji Solunke,Mechanical,L&T Technology Services,4.01,2025
-212,Abhay Natthu Phirke,Mechanical,L&T Technology Services,4.01,2025
-213,Mohit Someshwar Mankar,Mechanical,L&T Technology Services,4.01,2025
-214,Prajwal Latur,Mechanical,Praj Industries Ltd,4.5,2025
-215,Riya Rai,Computer,Juspay,27.0,2025
-216,Akshay Bandu Bandu Patil,E&TC,Neocell Industries,3.2,2025
-217,Atul Sudhakar Naik,E&TC,Neocell Industries,3.2,2025
-218,Aryan Kumar,E&TC,OMNIA Technology,5.0,2025
-219,Tarushi Khattar,Computer,PTC,9.0,2025
-220,Tanya Kumari,Computer,PTC,9.0,2025
-221,Rode Vaishnavi Yogesh,Mechanical,PTC,9.0,2025
-222,Maitreyee Mahesh Deshmukh,Computer,Juspay,27.0,2025
-223,Pranav Dnyandev Sonawane,Computer,TopperRank,4.0,2025
-224,Abhinav Prakash Tayade,Mechanical,TopperRank,4.0,2025
-225,Sakshi Vijay Kale,E&TC,TopperRank,4.0,2025
-226,Anushka Bhayaji Parkhi,E&TC,TopperRank,4.0,2025
-227,Gaurav Rahate,E&TC,TopperRank,4.0,2025
-228,Mane Sandhya Tanaji,ETX,TopperRank,4.0,2025
-229,Khangar Dhnynesh Sharad,Chemical,TopperRank,4.0,2025
-230,Kharat Shubham Lahanu,Chemical,TopperRank,4.0,2025
-231,Sanket Prashant Posa,Chemical,TopperRank,4.0,2025
-232,Rushikesh Bapu Chinchkar,Chemical,L&T Technology Services,4.01,2025
-233,Siddhi Anand Deshmukh,Chemical,L&T Technology Services,4.01,2025
-234,Tejas Dharmendra Jadhav,Chemical,L&T Technology Services,4.01,2025
-235,Chaitanya Prakash Borikar,Chemical,L&T Technology Services,4.01,2025
-236,Sanika Vilas Chandankhede,Chemical,L&T Technology Services,4.01,2025
-237,Faizan Umar Farooque Shaikh,Chemical,L&T Technology Services,4.01,2025
-238,Sanket Dharma Zalte,Mechanical,Coffee Day,3.5,2025
-239,Vaibhav Shivaji Kawade,E&TC,OMNIA Technology,5.0,2025
-240,Yashwant Shivaraj Gavali,Computer,PTC,9.0,2025
-241,Shridhar Gajanan Bhawar,Computer,Cognizant,4.0,2025
-242,Meghana Gorakh Gadalkar,ETX,Cognizant,4.0,2025
-243,Shravani Gajanan Gandhi,E&TC,Cognizant,4.0,2025
-244,Vedant Vasant Gawade,Computer,Cognizant,4.0,2025
-245,Girase Piyush Ravindra,E&TC,Cognizant,4.0,2025
-246,Jay Sunilkumar Patel,Computer,Cognizant,4.0,2025
-247,Shruti Suresh Nare,ETX,Cognizant,4.0,2025
-248,Prathamesh Sunil Pawar,Computer,Cognizant,4.0,2025
-249,Nitesh Hemant Rajput,Computer,Cognizant,4.0,2025
-250,Vivek Raj,Computer,Cognizant,4.0,2025
-251,Abhilash Manik Wasekar,ETX,Cognizant,4.0,2025
-252,Mihir Sanjay Fulari,E&TC,Lumax Technology,4.5,2025
-253,Om Kishor Lahare,E&TC,Lumax Technology,4.5,2025
-254,Virendrasing Gokul Morkar,Mechanical,Lumax Technology,4.5,2025
-255,Bhavesh Shyamkant Pardeshi,Mechanical,Lumax Technology,4.5,2025
-256,Shambharkar Pallavi Prakash,Mechanical,Lumax Technology,4.5,2025
-257,Solanke Mithilesh Mohanrao,E&TC,OMNIA Technology,5.0,2025
-258,Dabhade Soham Hansraj,Computer,Synechron Technologies,6.0,2025
-259,Dheeraj Singh,Computer,Synechron Technologies,6.0,2025
-260,Jagruti Dattatray Waje,Computer,Synechron Technologies,6.0,2025
-261,Pratham Tilakkumar Patharkar,Computer,Synechron Technologies,6.0,2025
-262,Wagh Vaibhav Babasaheb,Computer,Neu Edge Software Pvt. Ltd.,3.75,2025
-263,Jagruti Dilip Shinde,Computer,Dassault Systèmes Global Services,7.89,2025
-264,Aditya Kailas Joshi,Computer,Oracle Financial Services Software(OFSS),9.34,2025
-265,Chapade Sujyot Sunil,ETX,Krutanic,3.2,2025
-266,Chaudhari Kaustubh Dinesh,ETX,Krutanic,3.2,2025
-267,Sahil Vijay Rankhambe,Mechanical,Krutanic,3.2,2025
-268,Tushar Dnyaneshwar Suryawanshi,ETX,Krutanic,3.2,2025
-269,Gandhi Shravani Gajanan,E&TC,ATS Conveyors,7.0,2025
-270,Solanke Mithilesh Mohanrao,E&TC,ATS Conveyors,7.0,2025
-271,Wagh Pragati Laxman,E&TC,ATS Conveyors,7.0,2025
-272,Aditya Raj,ETX,ATS Conveyors,7.0,2025
-273,Hiwale Ashish Dnyaneshwar,ETX,ATS Conveyors,7.0,2025
-274,Nare Shruti Suresh,ETX,ATS Conveyors,7.0,2025
-275,Chinmayee Desai,Computer,Synechron Technologies,6.0,2025
-276,Thakur Isha Jitendra,Computer,Synechron Technologies,6.0,2025
-277,Harshvardhan Vijay Patil,Computer,Neutrino Tech Systems,3.6,2025
-278,Kaustubh Dinesh Chaudhari,E&TC,Man Truck and Bus India Pvt Ltd,5.0,2025
-279,Abhir Milind Kherde,E&TC,Man Truck and Bus India Pvt Ltd,5.0,2025
-280,Omkar Kasle,Computer,Synechron Technologies,5.31,2025
-281,Tanmay Pagar,Mechanical,Redaptive,7.92,2025
-282,Krushna Kadam,Mechanical,ATS Conveyors,7.0,2025
-283,Navnath Mundhe,Mechanical,ATS Conveyors,7.0,2025
-284,Santosh Chandrashekhar Gaud,Mechanical,Man Truck and Bus India Pvt Ltd,4.0,2025
-285,Chapade Sujyot Sunil,ETX,Stellaraa,4.0,2025
-286,Dewar Anuj Pramod,Chemical,Stellaraa,4.0,2025
-287,Gopal Balasaheb Badge,E&TC,Stellaraa,4.0,2025
-288,Patil Omkar Shivaji,E&TC,Stellaraa,4.0,2025
-289,Masooma Sultan,Civil,Genius payroll,3.75,2025
-290,Nandini Chandrakant Gangurde,Computer,TechMatrix Consulting,5.0,2025
-291,Shivam Namdev Bhagwat,Computer,TechMatrix Consulting,5.0,2025
-292,Akash Sachin Panse,Computer,Nibrus Technologies Pvt Ltd,7.5,2025
-293,Mohanish Ashok Khambadkar,Computer,ASG Technologies Private Limited,5.0,2025
-294,Ganesh Shivling Chaudhari,Civil,Pearl Construction Group,3.6,2025
-295,Jilla Varun Anand,Computer,Utrecht IT Consulting,3.5,2025
-296,Prasad Namdev Patil,ETX,Utrecht IT Consulting,3.5,2025
-297,Omkar Dinesh Ture,ETX,Utrecht IT Consulting,3.5,2025
-298,Viraj Raina,Computer,Utrecht IT Consulting,3.5,2025
-299,Saloni Sanjay Pujari,ETX,Utrecht IT Consulting,3.5,2025
-300,Kashid Shubhangi Anurath,ETX,Utrecht IT Consulting,3.5,2025
-301,Paithankar Siddhesh Dinesh,Computer,Utrecht IT Consulting,3.5,2025
-302,Omkar Shivaji Patil,E&TC,Fictive Technology Solutions Pvt,8.0,2025
-303,Pratik Vikas Patil,Computer,Fictive Technology Solutions Pvt,8.0,2025
-304,Mohit Phoolchand Jaiswal,Computer,Fictive Technology Solutions Pvt,8.0,2025
-305,Rohit Arjun Sawant,Mechanical,Orbit Bearing India Pvt. Ltd.,6.0,2025
-306,Vishwajit Nanasaheb Kadam,Mechanical,Orbit Bearing India Pvt. Ltd.,6.0,2025
-307,Shakil Rashid Balolkhan,Mechanical,Orbit Bearing India Pvt. Ltd.,6.0,2025
-308,Amruta Yayati Deshmukh,Mechanical,Faurecia,5.5,2025
-309,Atharva Hemant Salunkhe,Mechanical,Prime Lasers Pvt. Ltd.,4.2,2025
-310,Sakshi Devchand Chavhan,Computer,Eviden (An Atos Business),3.25,2025
-311,Jayashri Trembak Musale,Computer,Eviden (An Atos Business),3.25,2025
-312,Anushk Ravindra Nagdekar,Computer,Eviden (An Atos Business),3.25,2025
-313,Pritam Rajendra Gajare,Computer,Eviden (An Atos Business),3.25,2025
-314,Kunal Sachin Kamble,Computer,Eviden (An Atos Business),3.25,2025
-315,Anuj Shrikant Bhuyar,Computer,Eviden (An Atos Business),3.25,2025
-316,Saee Shamsundar Makrampure,Computer,CC Tech,4.0,2025
-317,Ashish Palkar Parees,Mechanical,CC Tech,4.0,2025
-318,Shrikant Chandrakant Shinde,Computer,ElasticRun,8.0,2025
-319,Praful Shekhar Gonnade,Mechanical,Kirtanlal Engineering Pvt Ltd,3.5,2025
-320,Sahil Lalit Awaradi,Mechanical,Mahindra Rise,5.5,2025
-321,Atharv Prashant Kulkarni,Mechanical,Mahindra Rise,5.5,2025
-322,Vaishnavi Vasant Shinde,ETX,Anantam Aerials and Robotics,8.5,2025
-323,Prathamesh Shivajirao Darekar,Computer,Stratecent,4.5,2025
-324,Aayush Chandrakant Mahajan,Mechanical,Hindustan Platinum Pvt Ltd,5.0,2025
-325,Shubham Kailas Hagawane,Computer,ElasticRun,8.0,2025
-326,Tanvi Tukaram Pednekar,Computer,ElasticRun,8.0,2025
-327,Om Bhagat Chnagdev,Mechanical,Defence Engineering Pvt. Ltd,3.0,2025
-328,Anushka Nanasaheb Vani,Mechanical,Defence Engineering Pvt. Ltd,3.0,2025
-329,Mandhare Rushikesh Ganesh,Mechanical,Siddhatech solution,4.5,2025
-330,Joshi Sneha Gopalrao,Chemical,United Heat Transfer,3.5,2025
-331,Dewar Anuj Pramod,Chemical,United Heat Transfer,3.5,2025
-332,Mayuri Mahesh Jagadale,Civil,Mantra Properties,4.0,2025
-333,Yash Sushil Sangale,Civil,Mantra Properties,4.0,2025
-334,Gunjal Anushka Namdev,Mechanical,Techno Building Products Pvt. Ltd,4.2,2025
-335,Vaishnavi Vitthalrao Ambegaonkar,Mechanical,Techno Building Products Pvt. Ltd,4.2,2025
-336,Sanket Sunil Satav,Mechanical,Chembond Material Technologies Ltd,3.0,2025
-337,Pooja Raghunath Satpute,Chemical,Gardner Denver Engineering Products India Pvt. Ltd.,2.4,2025
-338,Sayali Popat Waghmare,Chemical,Marcuras Water Treatment (India) Pvt Ltd,2.04,2025
-339,Salunkhe Atharva Hemant,Mechanical,Motherson,5.65,2025
-340,Shinde Prathmesh Shridhar,Mechanical,Motherson,3.0,2025
-341,Vani Anushka Nanasaheb,Mechanical,Motherson,3.0,2025
-342,Shaikh Rumman Rafique,E&TC,Reserve Bank Information Technology,4.5,2025
-343,Jay Sunilkumar Patel,Computer,Reserve Bank Information Technology,4.5,2025
-344,Kuwar Lokesh Baburao,Civil,ASSA ABLOY Opening Solutions India Pvt. Ltd.,4.5,2025
-345,Patil Rushikesh Manik,E&TC,Agiliad Technologies Inc.,4.5,2025
-346,Akanksha Annasaheb Sarade,E&TC,Agiliad Technologies Inc.,4.5,2025
-347,Patil Siddhesh Sanjay,Computer,Tata Technologies,4.71,2025
+1,AKANSHA KUMARI,COMP.,JOSH SOFTWARE,7.5,2020
+2,ABHISHEK KHAIWALE,COMP.,ETERNUS SOLUTIONS,3.6,2020
+3,JAGATH SAI NARAYANA KAKARAPARTHY,COMP.,ETERNUS SOLUTIONS,3.6,2020
+4,TEJAS KHANDALE,COMP.,ZS ASSOCIATES PVT. LTD.,8.93,2020
+5,TUSHAR DESAI,COMP.,ZS ASSOCIATES PVT. LTD.,8.93,2020
+6,TRIPTI MEHTA,COMP.,ZS ASSOCIATES PVT. LTD.,8.93,2020
+7,HARSHAL BORHADE,COMP.,ZS ASSOCIATES PVT. LTD.,8.93,2020
+8,POOJA SAWANT,COMP.,ZS ASSOCIATES PVT. LTD.,8.93,2020
+9,TEJAS DHAKAD,COMP.,VERITAS TECHNOLOGIES,10.75,2020
+10,ATISH BARGAJE,COMP.,VERITAS TECHNOLOGIES,10.75,2020
+11,SHIVANGI PANDEY,COMP.,DELOITTE CONSULTING,7.6,2020
+12,RUSHABH SANAP,COMP.,DELOITTE CONSULTING,7.6,2020
+13,NIVEDITA MAGDUM,COMP.,DELOITTE CONSULTING,7.6,2020
+14,RITIK KUMAR,COMP.,EQ TECHNOLOGIC INDIA PVT. LTD.,8.5,2020
+15,RAWAL PANDEY,COMP.,159 SOLUTIONS TECHNOLOGY,7.17,2020
+16,SAKSHI A. BHONGADE,COMP.,MU SIGMA,7.0,2020
+17,JAYESH R. SHELAR,COMP.,MU SIGMA,7.0,2020
+18,RAKSHANDA S.MULAY,COMP.,MU SIGMA,7.0,2020
+19,UPASANA MEHTA,COMP.,MU SIGMA,7.0,2020
+20,AKANKSHA KOTHARI,COMP.,MU SIGMA,7.0,2020
+21,DIPTI P. SHINDEKAR,COMP.,MU SIGMA,7.0,2020
+22,OMKAR SHIVAJI MOTALE,COMP.,BARCLAYS,4.4,2020
+23,VAIBHAV VIJAY MOGRE,COMP.,BARCLAYS,4.4,2020
+24,PRANALI LAXMAN METKARI,COMP.,BARCLAYS,4.4,2020
+25,MONIKA SREEDHARAN,COMP.,HITACHI CONSULTING,6.5,2020
+26,VIKRAMSINGH KUSHWAHA,COMP.,INTERACTIVE BROKERS,8.18,2020
+27,APURVA AVINASH DHUNDUR,COMP.,COGNIZANT,4.0,2020
+28,ANUP VASANT KOLTE,COMP.,COGNIZANT,4.0,2020
+29,RUSHIKESH HARIDAS KADAM,COMP.,COGNIZANT,4.0,2020
+30,VISHAL,COMP.,COGNIZANT,4.0,2020
+31,HARSHITA JAIN,COMP.,COGNIZANT,4.0,2020
+32,TANISK  ANNPURNA,COMP.,COGNIZANT,4.0,2020
+33,PRATIK DNYANESHWAR JARE,COMP.,COGNIZANT,4.0,2020
+34,NIKHIL TUKADUDAS CHACHARKAR,COMP.,COGNIZANT,4.0,2020
+35,SAHIL SANJAY TAH,COMP.,COGNIZANT,4.0,2020
+36,SNEHAL MARUTI GAWADE,COMP.,COGNIZANT,4.0,2020
+37,PRAJAKTA SUBHASH YADAV,COMP.,COGNIZANT,4.0,2020
+38,SNEHAL MAHASIDHA MHAMANE,COMP.,COGNIZANT,4.0,2020
+39,KIRTI PUNDLIK PHIRKE,COMP.,COGNIZANT,4.0,2020
+40,RUTUJA POPAT KUMBHAR,COMP.,INFOSYS,3.6,2020
+41,LUBHAVANI SINGH,COMP.,INFOSYS,3.6,2020
+42,POOJA SHARAD JAGTAP,COMP.,INFOSYS,3.6,2020
+43,NIKUNJ NARAYAN GHURKA,COMP.,INFOSYS,3.6,2020
+44,GRIMITA PURUSHARTHI,COMP.,HCL TECHNOLOGIES,4.75,2020
+45,VIKRAM LAXMAN KARE,COMP.,INFOGEN LABS,6.0,2020
+46,HARSHADA PATIL,COMP.,PROCTUR,5.06,2020
+47,DARSHAN VIJAY DHARMIK,COMP.,ACCENTURE,4.5,2020
+48,ARPIT KUMAR,COMP.,ACCENTURE,4.5,2020
+49,SRUSHTI GAJANAN YERAWAR,COMP.,ACCENTURE,4.5,2020
+50,MUSKAN LATIF ATTAR,COMP.,ACCENTURE,4.5,2020
+51,RUTUJA POPAT KUMBHAR,COMP.,ACCENTURE,4.5,2020
+52,SNEHAL MAHASIDHA MHAMANE,COMP.,ACCENTURE,4.5,2020
+53,SAHIL ARIF MULANI,COMP.,ACCENTURE,4.5,2020
+54,PRAJAKTA SURESH MATE,COMP.,ACCENTURE,4.5,2020
+55,PRAJAKTA SUBHASH YADAV,COMP.,ACCENTURE,4.5,2020
+56,ATUL TOPSINGH BHAIRAM,COMP.,ACCENTURE,4.5,2020
+57,PRANAY PATIL,COMP.,ACCENTURE,4.5,2020
+58,RISHAV MANI KUMAR,COMP.,PERSISTENT SYSTEMS,4.41,2020
+59,TANMAY MANE,COMP.,IBM INDIA,4.5,2020
+60,ASMEETA BALASAHEB KANICHE,COMP.,AMDOCS,5.0,2020
+61,SHRADDHA CHANDRAKANT JADHAV,COMP.,AMDOCS,5.0,2020
+62,SOURABH M ZAMBRE,COMP.,AMDOCS,5.0,2020
+63,VAIBHAVI MILIND SANGAWAR,COMP.,AMDOCS,5.0,2020
+64,MOHAMMED ABDUL MUJEEB,COMP.,AMDOCS,5.0,2020
+65,SUPRIT SUNIL GAIKWAD,COMP.,AMDOCS,5.0,2020
+66,PRAJWAL VIJAY CHIRDE,COMP.,AMDOCS,5.0,2020
+67,SAURABH SANTOSH DESHMUKH,COMP.,AMDOCS,5.0,2020
+68,DARSHAN VIJAY DHARMIK,COMP.,AMDOCS,5.0,2020
+69,ABHINAV KUMAR,COMP.,ABZOOBA INDIA INFOTECH,6.0,2020
+70,NILESH WANI,COMP.,ICERTIS,5.0,2020
+71,SURAJ THANNALI,COMP.,ICERTIS,5.0,2020
+72,GAURI BIDKAR,COMP.,VIGNET IT SERVICES,4.5,2020
+73,SAMRUDDHI SACHIN YADAV,COMP.,L&T INFOTECH LTD,5.0,2020
+74,PRANAV MORE,COMP.,ALTIMETRIK INDIA,4.25,2020
+75,PRADNYA VINOD NANAWARE,COMP.,VODAFONE,4.25,2020
+76,TRUPTI MAHENDRA LOKHANDE,COMP.,VODAFONE,4.25,2020
+77,SAHIL ARIF MULANI,COMP.,VODAFONE,4.25,2020
+78,PREETI KHUSHWAHA,COMP.,WISHTREE TECHNOLOGIES,3.6,2020
+79,OMKAR KOLATE,COMP.,MEDIA MAGIC TECHNOLOGIES,3.5,2020
+80,MEHAR MADNANI,COMP.,UDCHALO.COM,10.71,2020
+81,RAHUL AGRAWAL,COMP.,DATAFORTUNE SOFTWARE SOLUTIONS PVT.LTD,3.25,2020
+82,VAIBHAV KUMAR,COMP.,DATAFORTUNE SOFTWARE SOLUTIONS PVT.LTD,3.25,2020
+83,BHARGAV GUIRISH,COMP.,DATAFORTUNE SOFTWARE SOLUTIONS PVT.LTD,3.25,2020
+84,SHUBHAM TULSHIRAM SURYAWANSHI,COMP.,FEDERAL BANK,4.16,2020
+85,BHUSHAN  P. DHANDE,COMP.,INFRASOFT TECHNOLOGIES,3.5,2020
+86,RAHUL AGRAWAL,COMP.,ATOS SYNTEL.,3.2,2020
+87,JITENDRA SANJIV PATIL,COMP.,ATOS SYNTEL.,3.2,2020
+88,SIDDHARTH KULKARNI,COMP.,LOGICMONITOR,7.16,2020
+89,VIKRAM LAXMAN KARE,COMP.,LOGICMONITOR,7.16,2020
+90,JITENDRA SANJIV PATIL,COMP.,CAPGEMINI,3.8,2020
+91,RAHUL AGRAWAL,COMP.,CAPGEMINI,3.8,2020
+92,SHWETA HIRALAL SADWANI,COMP.,CAPGEMINI,3.8,2020
+93,SUKURTA NIVRUTTI PATIL,COMP.,CAPGEMINI,3.8,2020
+94,PRATIBHA GIRIDHAR KHANDAGALE,COMP.,NEXSUS,1.8,2020
+95,PRIYANKA DILIP KSHIRSAGAR,COMP.,NEXSUS,1.8,2020
+96,RUSHIKESH BHADAGE,COMP.,AVIABIRD TECHNOLOGIES,2.5,2020
+97,AAKANSHA PATIL,COMP.,KANTAR,4.0,2020
+98,SHIVANGI PANDEY,COMP.,BAJUS,10.0,2020
+99,JAGATH SAI NARAYANA KAKARPARTHY,COMP.,TIBCO SOFTWARE.,5.6,2020
+100,JAGATH SAI NARAYANA KAKARPARTHY,COMP.,TATA CONSULTANCY SERVICES LIMITED (TCSL).,3.37,2020
+101,ROHIT KAILAS CHOBHE,COMP.,BAJUS,10.0,2020
+102,SANKET R. ATHAWALE,COMP.,BAJUS,10.0,2020
+103,SWAPNIL  SUBHASH PATHARE,COMP.,EATON TECHNOLOGIES,6.25,2020
+104,VAIBHAV NIKAM,COMP.,GLOBANT,4.0,2020
+105,PRANAY PATIL,COMP.,LOGICMONITOR,7.16,2020
+106,PRASHANT VIKAS WALUNJ,COMP.,CONNECTICUS TECHNOLOGIES PVT.LTD.,2.4,2020
+107,VISHAL PAWAR,COMP.,UNIKEN INDIA PVT. LTD,3.46,2020
+108,VIRAG SHENDE PADMAKAR,COMP.,AMDOCS,5.0,2020
+109,AKSHAY RAJENDRA UMALE,COMP.,TRIPSTACK,4.0,2020
+110,PRATIK SHAILESH MESHRAM,COMP.,TRIPSTACK,4.0,2020
+111,AMIT VIJAYRAO DESHMUKH,COMP.,RANDSTAD TECHNOLOGIES,2.5,2020
+112,KHUSHABU  GANESH GUJAR,COMP.,NEEYAMO,2.3,2020
+113,PRANAV KUMAR,COMP.,NEEYAMO,2.3,2020
+114,SANJEEVANI PRALHAD PAWAR,COMP.,NEEYAMO,2.3,2020
+115,NIKITA  SANJAY BIRAJDAR,COMP.,NEEYAMO,2.3,2020
+116,SANKETKUMAR SUNIL SATHE,COMP.,GALAXE.SOLUTIONS INDIA PVT LTD,3.6,2020
+117,SHUBHAM JOSHI,IT,EQ TECHNOLOGIC INDIA PVT. LTD.,8.5,2020
+118,MITHIL JOBANPUTTRA,IT,159 SOLUTIONS TECHNOLOGY,7.17,2020
+119,RUSHIKESH S. VYAVAHARE,IT,MU SIGMA,7.0,2020
+120,SUBHASHREE S.,IT,MU SIGMA,7.0,2020
+121,VISHAL KUMAR TIWARI,IT,MU SIGMA,7.0,2020
+122,ADNAN MOHSIN ALI,IT,MU SIGMA,7.0,2020
+123,MAYUR SUDHAKAR SATAV,IT,COGNIZANT,4.0,2020
+124,RUSHIKESH HARIHAR KASTURE,IT,COGNIZANT,4.0,2020
+125,NIKHIL SARIYOT,IT,COGNIZANT,4.0,2020
+126,UMANG JOSHI,IT,COGNIZANT,4.0,2020
+127,SIDDHARTH SHANTAPPA MALANG,IT,COGNIZANT,4.0,2020
+128,ISHANT HIMMATRAO NAIK,IT,COGNIZANT,4.0,2020
+129,AJINKYA SUBODH REDE,IT,INFOSYS,3.6,2020
+130,PRATHAMESH VISHWAJIT WAGH,IT,INFOSYS,3.6,2020
+131,ARTI  JAYDIPBHAI BHALODIA,IT,ACCENTURE,4.5,2020
+132,NIKHIL   SARIYOT,IT,ACCENTURE,4.5,2020
+133,AMIT MUKATI,IT,PERSISTENT SYSTEMS,4.41,2020
+134,SHRINIVAS MAHAJAN,IT,PERSISTENT SYSTEMS,4.41,2020
+135,TUSHAR BANA,IT,XPANXION INTERNATIONAL PVT. LTD.,6.0,2020
+136,SUBHADHA DANGE,IT,IBM INDIA,4.5,2020
+137,CHIRAG  C.SONKAMBLE,IT,AMDOCS,5.0,2020
+138,MAYUR MESRAM,IT,AMDOCS,5.0,2020
+139,TANMAY VARADE,IT,VIGNET IT SERVICES,4.5,2020
+140,GAURI SINGH,IT,VIGNET IT SERVICES,4.5,2020
+141,SHUBHAM RAJENDRA MORANKAR,IT,L&T INFOTECH LTD.,5.0,2020
+142,MAYUR SUDHAKAR SATAV,IT,L&T INFOTECH LTD.,5.0,2020
+143,UMANG JOSHI,IT,PEOPLEINTERACTIVE,10.0,2020
+144,CHANDAN JOSHI,IT,CROWD WORKS INC.,30.0,2020
+145,SHUBHAM ANAND,IT,FISERV INDIA,5.2,2020
+146,SALONI DAVE,IT,FISERV INDIA,5.2,2020
+147,NIVEDITA KUMARI,IT,HUNAR PRO SKILLING,2.4,2020
+148,HARSH S. AMIN,IT,VOLKSWAGEN,1.8,2020
+149,SHWETA SHASHANK MADGE,IT,EKEEDA PRIVATE LIMITED,8.0,2020
+150,AMOL GARJE,IT,AXIS TECHNICAL GROUP INDIA PVT. LTD,2.8,2020
+151,PRASHIK ATHAWALE,IT,LOGICMONITOR,7.16,2020
+152,ADITI BHASKAR KADHAO,IT,RANDSTAD TECHNOLOGIES,2.5,2020
+153,MAHAKUJI SAVADE,IT,FIS SOLUTIONS SOFTWARE (INDIA) PVT.LTD.,5.2278,2020
+154,PRITEE PRADEEP ARERAO,IT,NEEYAMO,2.3,2020
+155,SNEHA  SANJAY JAGTAP,IT,NEEYAMO,2.3,2020
+156,POOJA DEEPAK POTDAR,IT,ACCENTURE,4.5,2020
+157,SUDHANSHU RANJAN,E&TC,DELOITTE CONSULTING,7.6,2020
+158,AKANKSHA KRISHNA SINGH,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+159,YAMINI J. MEHATTAR,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+160,OMKAR J. RANE,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+161,NAMRATA S. KUMAR,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+162,ANKIT M. RODEKAR,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+163,ABHISHEK S. JAIN,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+164,SRISHTI R. KAKADE,E&TC,KPIT TECHNOLOGIES LTD,3.25,2020
+165,PRACHI BARACHE,E&TC,PROCTUR,6.56,2020
+166,AMRITA JAWALEY,E&TC,PROCTUR,6.56,2020
+167,MAYURESH YASHWANT MOHITE,E&TC,TATA CONSULTANCY SERVICES LIMITED,7.0,2020
+168,KAUSTUBH  ARUN WANKHADE,E&TC,TATA CONSULTANCY SERVICES LIMITED,4.93,2020
+169,MAYURESH YASHWANT MOHITE,E&TC,COGNIZANT,4.0,2020
+170,TOSHI ALOK TIWARI,E&TC,COGNIZANT,4.0,2020
+171,BHUSHAN BATULE,E&TC,COGNIZANT,4.0,2020
+172,AYUSH SUNIL JOSHI,E&TC,COGNIZANT,4.0,2020
+173,NITESH DEVNARAYAN MANDAL,E&TC,COGNIZANT,4.0,2020
+174,SAURABH KUMAR,E&TC,COGNIZANT,4.0,2020
+175,MONIKA TULSHIDAS DIMBLE,E&TC,COGNIZANT,4.0,2020
+176,SOPHIE MATHEWS,E&TC,COGNIZANT,4.0,2020
+177,PRATIKSHA ANKUSH BANDE,E&TC,COGNIZANT,4.0,2020
+178,AKSHAY SHIVSHANKAR. INGLE,E&TC,COGNIZANT,4.0,2020
+179,ASHUTOSH  SURENDRA KUMAR,E&TC,COGNIZANT,4.0,2020
+180,NISHIGANDHA GIRISH PATIL,E&TC,COGNIZANT,4.0,2020
+181,MR. MAHFOOZ  ALAM,E&TC,COGNIZANT,4.0,2020
+182,ASHISH KUMAR,E&TC,COGNIZANT,4.0,2020
+183,SRUSHTI HARISHCHANDRA BHATKAR,E&TC,COGNIZANT,4.0,2020
+184,RENIN RAVINDRAN,E&TC,INFOSYS,3.6,2020
+185,PRAGATI KUMAR BORATE,E&TC,INFOSYS,3.6,2020
+186,MAUSAMI,E&TC,INFOSYS,3.6,2020
+187,NIKHIL VASANT KHANDELWAL,E&TC,INFOSYS,3.6,2020
+188,SANDHYA DNYANESHWAR AWARI,E&TC,INFOSYS,3.6,2020
+189,VARAD CHANDRAKANT KHOT,E&TC,INFOSYS,3.6,2020
+190,OMKAR SHIVLING GURAV,E&TC,ACCENTURE,4.5,2020
+191,ASHUTOSH SURENDRA KUMAR,E&TC,ACCENTURE,4.5,2020
+192,PALLAVI RAMDAS DERKAR,E&TC,ACCENTURE,4.5,2020
+193,AKSHAY SHIVSHANKAR INGLE,E&TC,ACCENTURE,4.5,2020
+194,JITESH SAJEEVAN JHA,E&TC,ACCENTURE,4.5,2020
+195,MAHESH TATYASAHEB CHAVAN,E&TC,ACCENTURE,4.5,2020
+196,POOJA ARUN BIPTE,E&TC,ACCENTURE,4.5,2020
+197,PRAJAKTA TUKARAM PAWALE,E&TC,ACCENTURE,4.5,2020
+198,SEEMA MACHINDRA SONKAMBLE,E&TC,ACCENTURE,4.5,2020
+199,NAMRATA SUNIL KUMAR,E&TC,ACCENTURE,4.5,2020
+200,SACHIN HUKUMCHAND CHAVHAN,E&TC,ACCENTURE,4.5,2020
+201,NIKHIL VIDYADHR PATIL,E&TC,ACCENTURE,4.5,2020
+202,VARAD CHANDRAKANT KHOT,E&TC,ACCENTURE,6.5,2020
+203,SAKSHI MADAN,E&TC,ACCENTURE,4.5,2020
+204,NIKITA NANDKISHOR LOMTE,E&TC,ACCENTURE,4.5,2020
+205,ABHISHEK ARUN SAINKAR,E&TC,ACCENTURE,4.5,2020
+206,AKANKSHA KRISHNA SINGH,E&TC,ACCENTURE,4.5,2020
+207,NITESH  DEVNARAYAN MANDAL,E&TC,ACCENTURE,4.5,2020
+208,SOFIYA YEDE,E&TC,ACCENTURE,4.5,2020
+209,AKASH SANAP,E&TC,AUTOMATIONEDGE TECHNOLOGIES,4.6,2020
+210,JAYESH KUMAR SURYAWANSHI,E&TC,ACCENTURE,4.5,2020
+211,NAMRATA SUNIL KUMAR,E&TC,L&T INFOTECH LTD,5.0,2020
+212,OJAL BHATNAGAR,E&TC,L&T INFOTECH LTD,5.0,2020
+213,TANBIR WARESI,E&TC,FISERV INDIA,5.2,2020
+214,YASH MANGLE,E&TC,FISERV INDIA,5.2,2020
+215,MANISH GAYKAR,E&TC,HUNAR PRO SKILLING,2.4,2020
+216,SANDHYA DNYANESHWAR AWARI,E&TC,VODAFONE,4.25,2020
+217,ROHIT LOWKUSH MANE,E&TC,VODAFONE,4.25,2020
+218,KESHAV KUNAL,E&TC,VODAFONE,4.25,2020
+219,SUMEDH KOCHE,E&TC,WISHTREE TECHNOLOGIS,3.6,2020
+220,MAYANK  K. CHOURASIA,E&TC,BIRDVISION CONSULTING PVT. LTD.,1.8,2020
+221,AMEY  N. NERKAR,E&TC,BIRDVISION CONSULTING PVT. LTD.,1.8,2020
+222,SANKET RAJESH URANE,E&TC,INFOSYS,3.0,2020
+223,AMAN ADARSH,E&TC,CONCENTRIX,3.9,2020
+224,AKSHIT A. KUMAR,E&TC,BYJUS,10.0,2020
+225,ABHIJIT GANESHRAO MALTE,E&TC,BYJUS,10.0,2020
+226,SAURABH PANDEY,E&TC,PINCLICK,4.8,2020
+227,SHUBHAM SHANKAR PATIL,E&TC,CONNECTICUS TECHNOLOGIES PVT.LTD.,2.4,2020
+228,SHUBHAM B JUNGARE,E&TC,CONGREUX ASIA PACIFIC LLP,2.75,2020
+229,SHIVANI  SUHAS GOSAVI,E&TC,MINDA CORPORATION LIMITED,3.25,2020
+230,APURVA AVINASH BORGHARE,E&TC,TCS,3.37,2020
+231,RAHUL PRAKASH MEDIDAR,E&TC,KYLAS,3.62,2020
+232,MANISH  KAILAS  GAYKAR,E&TC,SCIENTIFIC GAMES,6.15,2020
+233,SHRINIVAS SUBHASHRAO SHINDE,E&TC,STAR ENGINEERING,2.1,2020
+234,ANJALI BALAJI BORBOLE,E&TC,HCL TECHNOLOGIES,4.75,2020
+235,CHAUDHARI SNEHAL KISHOR,E&TC,TCS,3.37,2020
+236,RAJVARDHAN RISHI,E&TC,INDIGO AIRLINE / FTJS CONSULTANCY,5.13,2020
+237,MANDAGE ARJUN UMAKANT,E&TC,TATA CONSULTANCY SERVICES,3.37,2020
+238,PRINCE KUMAR,E&TC,BYJU'S,2.0,2020
+239,MANDPE POOJA RAMESH,E&TC,ALLSTATE SOLUTIONS PVT LTD,2.9,2020
+240,MUPPALANENI VAMSI KRISHNA,E&TC,LIBERTY ENGINEERING EQUIPMENTS (I) PVT LTD,3.0,2020
+241,BADAL KUMAR,E&TC,BYJU'S,10.0,2020
+242,DAHILE SAGAR JAGDISH,E&TC,ICICI BANK,3.38,2020
+243,NEHA KUMARI,E&TC,MOBICULE,1.82,2020
+244,GAWAI SHALOM DHANRAJ,E&TC,AMAZON DEVELOPMENT CENTRE INDIA PVT LTD,2.9,2020
+245,GORE SANKET MACHHINDRANATH,E&TC,PG ELECTROPLAST LTD,2.76,2020
+246,PRANAV VIKRAM,E&TC,INFOSYS LTD,3.0,2020
+247,MYAKAL ASHISH AMBADAS,E&TC,TATA CONSULTANCY SERVICES,3.37,2020
+248,RAPELLI NAVIN SIDRAM,E&TC,CAPGEMINI,3.0,2020
+249,RENUKA DILIP MODAK,E&TC,L&T TECHNOLOGIES SERVICES,1.0,2020
+250,SHUBHAM VIJAYKUMAR RANBHARE,E&TC,"AARNASYSTEMS PVT LTD,LYDNOW EDUTECH PVT LTD",1.5,2020
+251,KATKE AMRUTA RAMESH,E&TC,QUALITY AUSTRIA CENTRAL ASIA PVT LTD,1.68,2020
+252,VAIBHAV RAOSAHEB MHASKE,E&TC,PROMPT PERSONNEL PVT. LTD.,2.75,2020
+253,ATHARVA PRASHANT JOSHI,ETX,CAPGEMIMI,3.8,2020
+254,RAHUL RAJESH SINGH,ETX,COGNIZANT,4.0,2020
+255,JATIN SATISH MADAN,ETX,COGNIZANT,4.0,2020
+256,PRAJWAL SUNIL DURUGKAR,ETX,INFOSYS,3.6,2020
+257,SOUMYA MISHRA,ETX,INFOSYS,3.6,2020
+258,DIWYANI D. KAIKADE,ETX,ACCENTURE,4.5,2020
+259,ROSHANI ANIL NARKHEDE,ETX,ACCENTURE,4.5,2020
+260,RADHA SATISH BALKI,ETX,ACCENTURE,4.5,2020
+261,DULAR  M. NIKODE,ETX,CUELOGIC,4.0,2020
+262,VIJAY J PATIL,ETX,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+263,ANKIT M. MESHRAM,ETX,UPGRAD,8.0,2020
+264,ANKIT M. MESHRAM,ETX,E ZEST,4.0,2020
+265,RAMESHWAR KORADE,ETX,BIRLA CENTURY,1.92,2020
+266,NIKHIL HARIBHAU CHOUDHAR,ETX,AMDOCS,5.0,2020
+267,CHAITANYA HANMANT GANGATIRKAR,ETX,CONGREUX ASIA PACIFIC LLP,2.75,2020
+268,MOHANA VASUDEORAO TAPRE,ETX,CONGREUX ASIA PACIFIC LLP,2.75,2020
+269,PRATIK SURYAKANT SALUNKHE,ETX,S M AUTO ENGINEERING PVT. LTD.,2.64,2020
+270,SNEHA ARBOLE,CHEMICAL,ACCENTURE,4.5,2020
+271,APURVA SALUNKHE,CHEMICAL,ACCENTURE,4.5,2020
+272,ANCHAL BHARAT MAHURE,CHEMICAL,ACCENTURE,4.5,2020
+273,ANSHITA GAHLOT,CHEMICAL,ACCENTURE,4.5,2020
+274,NATASHA TURE,CHEMICAL,ACCENTURE,4.5,2020
+275,SAMEER PATIL,CHEMICAL,ACCENTURE,4.5,2020
+276,PRAVIN PARDESHI,CHEMICAL,ACCENTURE,4.5,2020
+277,TEJAS  SUNIL SATPUTE,CHEMICAL,ACCENTURE,4.5,2020
+278,RUSHIKESH DHAMORIKAR,CHEMICAL,ACCENTURE,4.5,2020
+279,ADVAITI PRAMOD KOLHE,CHEMICAL,COGNIZANT,4.0,2020
+280,RAKESH PANDURANG SONTAKKE,CHEMICAL,COGNIZANT,4.0,2020
+281,SHWETA ARUN JOGI,CHEMICAL,COGNIZANT,4.0,2020
+282,PRATIK PRAKASH SHIGVAN,CHEMICAL,COGNIZANT,4.0,2020
+283,ANCHAL BHARAT MAHURE,CHEMICAL,INFOSYS,3.6,2020
+284,ASIF RAJURI,CHEMICAL,ENPRO INDUSTRIES PVT. LTD,4.0,2020
+285,VISHAL DILIP MAHANWAR,CHEMICAL,ACCENTURE,4.5,2020
+286,VED PRAKASH,CHEMICAL,ACCENTURE,4.5,2020
+287,SAURABH KARBHARI KOR,CHEMICAL,ACCENTURE,4.5,2020
+288,SAMEER PATIL,CHEMICAL,HIKAL LTD.,4.0,2020
+289,PRADIP WAGHMARE,CHEMICAL,HIKAL LTD.,4.0,2020
+290,SUKALP LAMTURE,CHEMICAL,HIKAL LTD.,4.0,2020
+291,SWARUP PATIL,CHEMICAL,HIKAL LTD.,4.0,2020
+292,AMEY SHENDE,CHEMICAL,ECOLAB,3.5,2020
+293,APURVA SALUNKHE,CHEMICAL,WORLY PARSON,4.0,2020
+294,RONAK YOGESH MISTRY,CHEMICAL,LIDO LEARNING,5.6,2020
+295,VISHAL VIJAY SHEWALE,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+296,SHUBHAM JALINDAR KALE,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+297,TEJAS PANDITRAO BHADANE,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+298,RAKESH PANDURANG SONTAKKE,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+299,AKASH JIJABHAU GAYKAR,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+300,PRAJOT CHANDRAGUPTA NAKHALE,CHEMICAL,SAI LIFE SCIENCES PVT.LTD.,3.0,2020
+301,BHUSHAN S. LAKHOTIYA,CHEMICAL,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+302,SURAJ S. GAIKWAD,CHEMICAL,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+303,ANCHAL BHARAT MAHURE,CHEMICAL,PRODAIR AIR PRODUCTS INDIA PVT. LTD,5.0,2020
+304,PRATIK VIJAY BADKAS,CHEMICAL,JSW STEEL,6.0,2020
+305,MD SAAJID ALI,CHEMICAL,JSW STEEL,6.0,2020
+306,SHRIYA ARUN VAIDYA,CHEMICAL,JSW STEEL,6.0,2020
+307,TEJAS SUNIL SATPUTE,CHEMICAL,JSW STEEL,6.0,2020
+308,VISHAL DILIP MAHANWAR,CHEMICAL,JSW STEEL,6.0,2020
+309,KASHMIRA  ANIL JADHAV,CHEMICAL,JSW STEEL,6.0,2020
+310,SNEHA ARBOLE,CHEMICAL,BYJUS,10.0,2020
+311,SHRAVANI DESHPANDE,CHEMICAL,BYJUS,10.0,2020
+312,RONAK YOGESH MISTRY,CHEMICAL,BYJUS,10.0,2020
+313,KAJOL  M.NAGARGOJE,CHEMICAL,BYJUS,10.0,2020
+314,SAYALI PATIL,CHEMICAL,BU BHANDARI AUTO PVT. LTD.,1.27,2020
+315,GANESH GAJARE,CHEMICAL,CLASSIC INDUSTRIES & EXPORTS,2.4,2020
+316,CHETANA SUBHASH TURARE,CHEMICAL,INITIATIVE WATER,2.0,2020
+317,GEETA UDDHAV KALE,CHEMICAL,INITIATIVE WATER,2.0,2020
+318,SHUBHAM SANJAY PAWAR,CHEMICAL,INITIATIVE WATER,2.0,2020
+319,SWAPNIL KIRAN PARATE,CIVIL,COGNIZANT,4.0,2020
+320,PRASHANT B. KHEDKAR,CIVIL,ACCENTURE,4.5,2020
+321,SHRADDHA V. SHINDE,CIVIL,ACCENTURE,4.5,2020
+322,PRADNYA SONAWANE,CIVIL,TEKNOVANCE,3.0,2020
+323,SUMEDH  SHINDE,CIVIL,ACCENTURE,4.5,2020
+324,PRASHANT  KOKATE,CIVIL,ACCENTURE,4.5,2020
+325,SHRADDHA V. SHINDE,CIVIL,UPGRAD,8.0,2020
+326,SIDHANT PATIL,CIVIL,JCB,2.64,2020
+327,SURAJ ANIL KHARE,CIVIL,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+328,GAYATRI RAOSAHEB JAGADALE,CIVIL,CONGREUX ASIA PACIFIC LLP,2.75,2020
+329,ASHVINI PATIL,CIVIL,URBANROOF PVT. LTD,2.5,2020
+330,ADITYA  SUNIL DUBEWAR,CIVIL,KASHEC ENGINEERS PVT. LTD,2.52,2020
+331,RUPESH NAGO MANORE,CIVIL,KASHEC ENGINEERS PVT. LTD,2.52,2020
+332,OMKAR YAMGAR,CIVIL,AIMIL LTD.,1.44,2020
+333,NIKHIL CHATAP,MECH,EATON TECHNOLOGIES,6.25,2020
+334,SAIDEEP VAKTE,MECH,EATON TECHNOLOGIES,6.25,2020
+335,VAIBHAV GAJANAN KALE,MECH,COGNIZANT,4.0,2020
+336,JAMIR TOLASHA SHAIKH,MECH,COGNIZANT,4.0,2020
+337,KUMAR AMAN,MECH,COGNIZANT,4.0,2020
+338,ROSHANKUMAR SURYAKANT PATIL,MECH,COGNIZANT,4.0,2020
+339,AVADHUT UTTAM BHISE,MECH,COGNIZANT,4.0,2020
+340,KSHITIJA SANJAY BAVAKAR,MECH,COGNIZANT,4.0,2020
+341,KUNAL SAMADHAN GHATALE,MECH,COGNIZANT,4.0,2020
+342,SANKALP DNYANDEV VETURLEKAR,MECH,COGNIZANT,4.0,2020
+343,MRUNAL SURYAKANT CHIKALANDE,MECH,COGNIZANT,4.0,2020
+344,SUMIT VASANTRAO PARKOR,MECH,COGNIZANT,4.0,2020
+345,AVINASH BALU PALVE,MECH,COGNIZANT,4.0,2020
+346,SUMIT SANTOSH KHOMANE,MECH,COGNIZANT,4.0,2020
+347,HARSHAL BHASKAR PHALAK,MECH,COGNIZANT,4.0,2020
+348,NILKANTH VILAS JEJURKAR,MECH,COGNIZANT,4.0,2020
+349,SHUBHAM DEELIP LAMBOLE,MECH,COGNIZANT,4.0,2020
+350,ANUP TUKARAM PENDOR,MECH,COGNIZANT,4.0,2020
+351,TEJASHREE ARUN KADUS,MECH,COGNIZANT,4.0,2020
+352,RUSHIKESH PRAMOD CHAUDHARI,MECH,COGNIZANT,4.0,2020
+353,ABHIJIT VIJAY PATIL,MECH,COGNIZANT,4.0,2020
+354,TUSHAR PRADEEP JADHAV,MECH,COGNIZANT,4.0,2020
+355,RAVINA ROHIDAS BHUJBAL,MECH,COGNIZANT,4.0,2020
+356,PIYUSH SANJAY TUSE,MECH,COGNIZANT,4.0,2020
+357,SHREYAS SANJEEV DESAI,MECH,COGNIZANT,4.0,2020
+358,NILESH BABAN CHAVAN,MECH,COGNIZANT,4.0,2020
+359,NEHA SHAILESH SHAH,MECH,COGNIZANT,4.0,2020
+360,SNEHA RAMAKRISHNAN,MECH,COGNIZANT,4.0,2020
+361,PRANAV PRAKASH KARANDE,MECH,COGNIZANT,4.0,2020
+362,DHANRAJ SHRINIWAS KODAM,MECH,COGNIZANT,4.0,2020
+363,SHIVATEJA BURRALA,MECH,COGNIZANT,4.0,2020
+364,JAYESH ARVIND GUPTA,MECH,COGNIZANT,4.0,2020
+365,NIHAR RANJAN DAS,MECH,COGNIZANT,4.0,2020
+366,SANSKAR JOSHI,MECH,INFOSYS,3.6,2020
+367,NEHA KISHOR BARHATE,MECH,INFOSYS,3.6,2020
+368,AKASH RAJKUMAR PRASAD,MECH,INFOSYS,3.6,2020
+369,PRASANNAMURTHY MADHAV PAI,MECH,INFOSYS,3.6,2020
+370,AENTRIKSH SANJAY KHANZODE,MECH,INFOSYS,3.6,2020
+371,AKASH RAJENDRA JAGTAP,MECH,INFOSYS,3.6,2020
+372,AJINKYA MUKUND PANNASE,MECH,INFOSYS,3.6,2020
+373,AJAY CHANDRAKISHOR PANDE,MECH,INFOSYS,3.6,2020
+374,ABHIJIT VIJAY PATIL,MECH,INFOSYS,3.6,2020
+375,PRATIK VILAS BHURBHURE,MECH,INFOSYS,3.6,2020
+376,RUTVIJ ASHOK WAKALKAR,MECH,INFOSYS,3.6,2020
+377,MADHUSUDAN SHASHIKANT PATIL,MECH,INFOSYS,3.6,2020
+378,MANASI AVINASH LOKURKAR,MECH,INFOSYS,3.6,2020
+379,ADESH JAGDALE,MECH,HCL TECHNOLOGIES,4.75,2020
+380,AKSHAY NIMBOKAR,MECH,HCL TECHNOLOGIES,4.75,2020
+381,SHREENATH POWER,MECH,HCL TECHNOLOGIES,4.75,2020
+382,PURUSHOTTAM SHIVAJI NIRGUDE,MECH,ENPRO INDUSTRIES PVT. LTD,4.0,2020
+383,NIHAR RANJAN DAS,MECH,ENPRO INDUSTRIES PVT. LTD,4.0,2020
+384,PIYUSH SANJAY TUSE,MECH,ACCENTURE,4.5,2020
+385,KUNAL PRASHANT DESHMUKH,MECH,ACCENTURE,4.5,2020
+386,RUPESH NANDU WAJE,MECH,ACCENTURE,4.5,2020
+387,ANKITA RAMESH DIXIT,MECH,ACCENTURE,4.5,2020
+388,PURUSHOTTAM SHIVAJI NIRGUDE,MECH,ACCENTURE,4.5,2020
+389,MANASI AVINASH LOKURKAR,MECH,ACCENTURE,4.5,2020
+390,PANKAJ AVINASH JAGDALE,MECH,ACCENTURE,4.5,2020
+391,RAHUL BHARAT KAMBLE,MECH,ACCENTURE,4.5,2020
+392,MANJIRI AMBARSING MAGAR,MECH,ACCENTURE,4.5,2020
+393,ADESH MAHESH JADHAV,MECH,ACCENTURE,4.5,2020
+394,ASHISH ANIL SAKORE,MECH,ACCENTURE,4.5,2020
+395,KAMALESH HINDURAO CHAVAN,MECH,ACCENTURE,4.5,2020
+396,ASHISH MAHAVAIR DHONGDE,MECH,ACCENTURE,4.5,2020
+397,SHUBHAM SANJAY PATURKAR,MECH,ACCENTURE,4.5,2020
+398,SHARWARI SANDEEP NALAWADE,MECH,ACCENTURE,4.5,2020
+399,OMKAR SUDAMRAO PHAND,MECH,ACCENTURE,4.5,2020
+400,SHANTANU VAIJNATH SHELKE,MECH,ACCENTURE,4.5,2020
+401,AENTRIKSH SANJAY KHANZODE,MECH,ACCENTURE,4.5,2020
+402,TEJASHREE ARUN KADUS,MECH,ACCENTURE,4.5,2020
+403,NEHA  SHAILESH SHAH,MECH,CEAT TYRES,4.5,2020
+404,NAMRATA  C. MORE,MECH,BIRDVISION CONSULTING PVT. LTD.,1.8,2020
+405,ANURAG  SANJAY KANDKE,MECH,FAURECIA,3.5,2020
+406,HARSHAL  GOKUL DHAMNE,MECH,FAURECIA,3.5,2020
+407,SAGAR  SUKHDEV KOLEKAR,MECH,FAURECIA,3.5,2020
+408,PRAJWAL D. BADWAIK,MECH,JOHNSON CONTROLS INDIA LTD,4.0,2020
+409,OMKAR P. YANDE,MECH,JOHNSON CONTROLS INDIA LTD,4.0,2020
+410,PRASHANT GOVIND MUNGASE,MECH,INFOSYS,3.0,2020
+411,PRATIK RAMESH GAIKWAD,MECH,INFOSYS,3.0,2020
+412,OMKAR G. TAMBE,MECH,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+413,UMESH A SHATTER,MECH,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+414,LOKNATH S. YADAV,MECH,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+415,KARTIKEE  D.KULKARNI,MECH,COSMO FILMS LTD,2.4,2020
+416,GAURI  K. HARALE,MECH,COSMO FILMS LTD,2.4,2020
+417,SANKET SHAHAJI REPALE,MECH,FEDERAL BANK,4.16,2020
+418,ABHAY NIRESH GUND,MECH,FEDERAL BANK,4.16,2020
+419,SHAILESH DATTATRAY GOLE,MECH,FEDERAL BANK,4.16,2020
+420,SAMIKSHA ANANDRAO DHAKATE,MECH,FEDERAL BANK,4.16,2020
+421,SANKET RAJENDRA KALE,MECH,FEDERAL BANK,4.16,2020
+422,AKASH SHAMRAO TAPKIR,MECH,FEDERAL BANK,4.16,2020
+423,ROHIT  GANESHKUMAR  KAPGATE,MECH,FEDERAL BANK,4.16,2020
+424,NEHA KISHOR BARHATE,MECH,PRODAIR AIR PRODUCTS INDIA PVT. LTD,5.0,2020
+425,SHARWARI SANDEEP NALAWADE,MECH,PRODAIR AIR PRODUCTS INDIA PVT. LTD,5.0,2020
+426,KUNAL SAMADHAN GHATALE,MECH,JSW STEEL,6.0,2020
+427,RUTVIJ ASHOK WAKALKAR,MECH,JSW STEEL,6.0,2020
+428,AKASH RAJKUMAR PRASAD,MECH,JSW STEEL,6.0,2020
+429,SHIVSHANKAR RUDRAPPA ANGADI,MECH,PROCHEM,2.5,2020
+430,ATUL RAMDAS GHAYAL,MECH,BYJUS,10.0,2020
+431,YASH S. ARAWAL,MECH,BYJUS,10.0,2020
+432,RENUKA KRISHNA GAIKWAD,MECH,BU BHANDARI AUTO PVT. LTD,1.27,2020
+433,SANKET MAHADEV SAPKAL,MECH,BU BHANDARI AUTO PVT. LTD,1.27,2020
+434,ASHISH MAHABIR DHONGDE,MECH,BYJUS,10.0,2020
+435,SHILPA SAHEBRAV BUGE,MECH,JCB,2.64,2020
+436,RENUKA KRISHNA GAIKWAD,MECH,JCB,2.64,2020
+437,CHETAN BHAGWAT BONDE,MECH,JCB,2.64,2020
+438,DEEPAK VASANT HASABE,MECH,JCB,2.64,2020
+439,GANESH KRISHNAT SAKHALKAR,MECH,JCB,2.64,2020
+440,AJINKYA NEWALE,MECH,JCB,2.64,2020
+441,ROHIT  MADHUSOOTHANAN PODUWAL,MECH,S M AUTO  ENGINEERING PVT.LTD.,2.64,2020
+442,PANDURANG TAKMOGE,MECH,VEM TOOLING,1.8,2020
+443,KHUSHAL  GAJANAN NANDE,MECH,ECLERX,2.4,2020
+444,SWAPNIL ALTE,MECH,ECLERX,2.4,2020
+445,PRATHAM DINESH RAI,MECH,BYJUS,10.0,2020
+446,MOHAMMAD ZIYA SHAIKH,MECH,GNS ENGINEERING INDIA PVT. LTD,2.2,2020
+447,AJAY DUBE,MECH,PINCLICK,4.8,2020
+448,MAHADEV SHIVAJI,MECH,PINCLICK,4.8,2020
+449,VISHAL PARTHASARATHI,MECH,PINCLICK,4.8,2020
+450,ASHISH ANIL SAKORE,MECH,RIECO INDUSTRIES LTD.,3.0,2020
+451,LAVISHA LOBO,MECH,RIECO INDUSTRIES LTD.,3.0,2020
+452,NAVIN PRADIP VEER,MECH,CONGREUX ASIA PACIFIC LLP,2.75,2020
+453,NIMISH NILESH JOSHI,MECH,CONGREUX ASIA PACIFIC LLP,2.75,2020
+454,SAMADHAN PARMESHWAR RAJGIRE,MECH,CONGREUX ASIA PACIFIC LLP,2.75,2020
+455,SATYAM YOGENDRA TRIPATHI,MECH,CONGREUX ASIA PACIFIC LLP,2.75,2020
+456,MATTE SHITAL PRAKASH,MECH,B U BHANDARI AUTO PVT. LTD,1.27,2020
+457,TAHIR ALI,MECH,ASSA ABLOY,3.5,2020
+458,MAYURI SIDRAMAPPA KATARE,MECH,KYLAS,3.60731,2020
+459,DHANRAJ SHRINIWAS KODAM,MECH,RUCHA YANTRA LLP,1.8,2020
+460,PRIYANKA DAYANAND SURYAVANSHI,MECH,RANDSTAD TECHNOLOGIES,2.5,2020
+461,ZAID ASIF SHAIKH,MECH,RANDSTAD TECHNOLOGIES,2.5,2020
+462,PAWANKUMAR LAXMAN YADAV,M.TECH-MECH.,WIKA INSTRUMENTS,2.5,2020
+463,ANKITA RAMESH DIXIT,MECH,EATON TECHNOLOGIES,6.25,2020
+464,ATHARVA  ATUL DHOKTE,MECH,EATON TECHNOLOGIES,6.25,2020
+465,ROHIT  MADHUSOOTHANAN PODUWAL,MECH,EATON TECHNOLOGIES,6.25,2020
+466,ANIL VASANT BAGUL,MECH,BYJU'S,10.0,2020
+467,KUNAL SUDHAKAR PATIL,MECH.,BOSCH LTD,2.64,2020
+468,PRITAM EKANTH AKANGIRE,MECH.,BYJU'S,10.0,2020
+469,JAYPRAKASH DATTATRAY UNAP,MECH.,BYJU'S,10.0,2020
+470,PRACHI KASHYAP,MECH.,JCB INDIA,2.64,2020
+471,PRIYANKA DAYANAND SURYAVANSHI,MECH.,SACHA ENGINEERING,3.25,2020
+472,MAYURI SIDRAMAPPA KATARE,MECH.,SELL.DO,3.96,2020
+473,NAMRATA CHANDRAKANT MOR,MECH.,"EXALTARE TECHNOLOGIES PRIVATE LIMITED,",4.236,2020
+474,SHRINIVAS BALASAHEB KADAM,MECH.,BYJUS,10.0,2020
+475,SWARAJ SHEKHAR GURAV,MECH.,IMPACTS INNOVATIONS PVT LTD,1.2,2020
+476,TUSHAR AMALE NARENDRA,MECH.,YASHASWI,1.8,2020
+477,MOHAMMAD HANIF SHAIKH,MECH.,GNS ENGINEERING INDIA PRIVATE LIMITED,2.2,2020
+478,NAGESH MARUTI GARJE,MECH.,ULTRA ENGINEER,2.0,2020
+479,YURAJ AHIRE,MECH,TCS,5.0,2020
+480,SUMIT MATE,MECH,COGNIZANT,4.0,2020
+481,BODKE SHRADDHA SATISH,E&TC,ATOS,3.1,2020
+482,SADASHIV GURUNATH VAIDYA,MECH.,SKYFI LABS,2.1,2020
