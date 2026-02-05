@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-RAW_FILE = BASE_DIR / "data" / "raw" / "placements_2025.csv"
+RAW_FILE = BASE_DIR / "data" / "raw" / "placement_2020.csv"
 CLEAN_FILE = BASE_DIR / "clean" / "placements_clean.csv"
 
 # Load CSV without header to detect it manually
@@ -63,7 +63,7 @@ df["branch"] = df["branch"].str.strip()
 df["company"] = df["company"].str.strip()
 
 # YEAR TAG 
-df["academic_year"] = "2025"
+df["academic_year"] = "2020"
 
 # ---------------- SAVE ----------------
 CLEAN_FILE.parent.mkdir(exist_ok=True)

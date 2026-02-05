@@ -12,21 +12,37 @@ def create_chatbot(vectorstore):
     )
 
     # Retriever from FAISS
-    retriever = vectorstore.as_retriever()
+    retriever = vectorstore.as_retriever(
+        search_kwargs={"k": 5},
+        return_source_documents=False
+    )
+
 
     prompt = ChatPromptTemplate.from_template(
-        """
-        You are a placement data assistant.
-        Answer ONLY using the given context.
-        If the answer is not present, say "I don't have enough data."
+    """
+    You are a placement analytics assistant.
 
-        Context:
-        {context}
+    Use ONLY the information provided in the context below.
+    Answer clearly and concisely in plain English.
 
-        Question:
-        {question}
-        """
-    )
+    DO NOT:
+    - mention document IDs
+    - mention metadata
+    - mention the word "Document"
+    - expose the context directly
+
+    If the answer is not present, say: "I don't have enough data."
+
+    Context:
+    {context}
+
+    Question:
+    {question}
+
+    Final Answer:
+    """
+)
+
 
     rag_chain = (
         {
