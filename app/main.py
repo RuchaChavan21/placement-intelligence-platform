@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 from fastapi import FastAPI
 from app.db import SessionLocal
 from app.rag.data_loader import load_placement_documents
