@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from app.db import SessionLocal
 from app.rag.data_loader import load_placement_documents
 from app.rag.vector_store import build_vector_store
@@ -10,11 +11,22 @@ from app.rag import cache
 from app.chat_api import router as chat_router
 from app.services.summary_builder import build_placement_summary, get_all_academic_years
 from app.admin_api import router as admin_router
-
+from app.analytics import router as analytics_router
 
 app = FastAPI(title="Campus Placement Intelligence Platform")
+
+# CORS Configuration for Frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], # In production, restrict to frontend domain
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 app.include_router(chat_router)
 app.include_router(admin_router)
+app.include_router(analytics_router, prefix="/api/analytics", tags=["Analytics"])
 
 
 @app.on_event("startup")
