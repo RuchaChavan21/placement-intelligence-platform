@@ -137,6 +137,29 @@ def branch_avg_package_chart(
         "values": [round(float(r.avg_package), 2) for r in result]
     }
 
+# Data for branch-wise placement count chart
+@router.get("/charts/branch-distribution")
+def branch_distribution_chart(
+    year: str | None = Query(None),
+    db: Session = Depends(get_db)
+):
+    query = (
+        db.query(
+            Placement.branch,
+            func.count(Placement.id).label("count")
+        )
+    )
+
+    if year:
+        query = query.filter(Placement.academic_year == year)
+
+    result = query.group_by(Placement.branch).all()
+
+    return {
+        "labels": [r.branch for r in result],
+        "values": [r.count for r in result]
+    }
+
 # Data for top N companies chart
 @router.get("/charts/top-companies")
 def top_companies_chart(
@@ -201,3 +224,22 @@ def package_distribution_chart(
         "labels": list(bins.keys()),
         "values": list(bins.values())
     }
+
+# Data for yearly trends chart
+@router.get("/charts/yearly-trends")
+def yearly_trends_chart(db: Session = Depends(get_db)):
+    result = (
+        db.query(
+            Placement.academic_year,
+            func.count(Placement.id).label("placements")
+        )
+        .group_by(Placement.academic_year)
+        .order_by(Placement.academic_year.asc())
+        .all()
+    )
+
+    return [
+        {"year": str(r.academic_year), "placements": r.placements}
+        for r in result if r.academic_year is not None
+    ]
+
