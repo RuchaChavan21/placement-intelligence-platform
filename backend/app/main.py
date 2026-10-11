@@ -1,3 +1,4 @@
+import os
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -16,9 +17,16 @@ from app.analytics import router as analytics_router
 app = FastAPI(title="Campus Placement Intelligence Platform")
 
 # CORS Configuration for Frontend
+# ALLOWED_ORIGINS: comma-separated list, e.g. "https://my-app.vercel.app"
+allowed_origins = [
+    o.strip().rstrip("/")
+    for o in os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")
+    if o.strip()
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # In production, restrict to frontend domain
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
