@@ -16,9 +16,11 @@ def get_database_url() -> str:
         logger.warning("DATABASE_URL not set. Falling back to sqlite dev DB.")
         return "sqlite:///./dev.db"
 
-    # some providers hand out postgres:// which SQLAlchemy no longer accepts
-    if url.startswith("postgres://"):
-        url = "postgresql://" + url[len("postgres://"):]
+    # pin the driver explicitly: some providers hand out postgres:// (rejected by
+    # SQLAlchemy), and SQLAlchemy 2.1 defaults postgresql:// to psycopg v3
+    for prefix in ("postgres://", "postgresql://"):
+        if url.startswith(prefix):
+            url = "postgresql+psycopg2://" + url[len(prefix):]
     return url
 
 
