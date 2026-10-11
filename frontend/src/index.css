@@ -1,26 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
+  html, body, #root {
+    @apply h-full;
+  }
   body {
-    @apply bg-premium-bg text-dark font-sans antialiased selection:bg-gold-200 selection:text-dark m-0 p-0 overflow-x-hidden;
+    @apply bg-ink-950 text-slate-200 font-sans antialiased m-0 p-0 overflow-hidden;
+  }
+  ::selection {
+    @apply bg-gold-500/30 text-white;
   }
 }
 
-/* Custom scrollbar for chatbot */
+@layer components {
+  .glass {
+    @apply bg-white/[0.04] border border-white/[0.08] backdrop-blur-xl shadow-glass;
+  }
+  .text-gradient {
+    @apply bg-gradient-to-r from-gold-300 via-gold-500 to-violet-400 bg-clip-text text-transparent;
+  }
+}
+
+/* Thin, subtle scrollbar */
 ::-webkit-scrollbar {
   width: 6px;
-  height: 6px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  @apply bg-gray-200 rounded-full;
+  @apply bg-white/10 rounded-full;
 }
 ::-webkit-scrollbar-thumb:hover {
-  @apply bg-gray-300;
+  @apply bg-white/20;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
