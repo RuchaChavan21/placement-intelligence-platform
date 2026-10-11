@@ -14,7 +14,7 @@ const SLOW_REPLY_MS = 6000;
 let nextId = 0;
 const makeId = () => ++nextId;
 
-const ChatPage = () => {
+const ChatPage = ({ user, onLogout }) => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [isThinking, setIsThinking] = useState(false);
@@ -67,7 +67,7 @@ const ChatPage = () => {
   return (
     <div className="relative flex h-[100dvh] flex-col">
       <AnimatedBackground />
-      <ChatHeader onNewChat={newChat} showNewChat={!isEmpty} />
+      <ChatHeader onNewChat={newChat} showNewChat={!isEmpty} user={user} onLogout={onLogout} />
 
       <main ref={scrollRef} className="flex-1 overflow-y-auto">
         {isEmpty ? (
